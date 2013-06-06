@@ -1,0 +1,3514 @@
+diff files <fft/pin/p2/thread0-trace.out.gz,fft/m5/p2/m5out/X86/m5trace.out.100.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 51277
+t2 bbs size = 51291
+call trace 1 size = 17468
+call trace 2 size = 17643
+ProcessCalls:task calltask :(0,17468)=17468,(0,17643)=17643
+t1 inst size:469996
+t2 inst size:468650
+call trace diff:
+17376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,160780,137675,159148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7127
+t2 unique size:5746
+call trace sim. size:17376
+inst trace sim. size:457603
+call trace similarity:99.4733
+inst trace similarity:97.3632
+
+diff files <fft/pin/p2/thread1-trace.out.gz,fft/m5/p2/m5out/X86/m5trace.out.101.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 42794
+t2 bbs size = 42825
+call trace 1 size = 4608
+call trace 2 size = 4614
+ProcessCalls:task calltask :(0,4608)=4608,(0,4614)=4614
+t1 inst size:890037
+t2 inst size:889689
+call trace diff:
+4608,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,290043,270618,328212,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:1152
+t2 unique size:576
+call trace sim. size:4608
+inst trace sim. size:888873
+call trace similarity:100
+inst trace similarity:99.8692
+
+diff files <fft/pin/p2/thread2-trace.out.gz,fft/m5/p2/m5out/X86/m5trace.out.102.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 42712
+t2 bbs size = 42723
+call trace 1 size = 4566
+call trace 2 size = 4571
+ProcessCalls:task calltask :(0,4566)=4566,(0,4571)=4571
+t1 inst size:889740
+t2 inst size:888897
+call trace diff:
+0,4565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+287204,0,313796,287458,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:1265
+t2 unique size:382
+call trace sim. size:4565
+inst trace sim. size:888458
+call trace similarity:99.9781
+inst trace similarity:99.8559
+
+diff files <fft/pin/p16/thread0-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.100.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 55420
+t2 bbs size = 55829
+call trace 1 size = 18447
+call trace 2 size = 18661
+ProcessCalls:task calltask :(0,18447)=18447,(0,18661)=18661
+t1 inst size:488033
+t2 inst size:488984
+call trace diff:
+18382,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,168147,164661,143274,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7988
+t2 unique size:7161
+call trace sim. size:18382
+inst trace sim. size:476082
+call trace similarity:99.6476
+inst trace similarity:97.5512
+
+diff files <fft/pin/p16/thread1-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.101.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7126
+t2 bbs size = 7151
+call trace 1 size = 692
+call trace 2 size = 706
+ProcessCalls:task calltask :(0,692)=692,(0,706)=706
+t1 inst size:121008
+t2 inst size:120508
+call trace diff:
+686,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,53550,39557,26628,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:1216
+t2 unique size:489
+call trace sim. size:686
+inst trace sim. size:119735
+call trace similarity:99.1329
+inst trace similarity:98.948
+
+diff files <fft/pin/p16/thread2-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.102.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7058
+t2 bbs size = 7092
+call trace 1 size = 641
+call trace 2 size = 662
+ProcessCalls:task calltask :(0,641)=641,(0,662)=662
+t1 inst size:119755
+t2 inst size:119862
+call trace diff:
+636,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,25747,42539,51052,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:343
+t2 unique size:312
+call trace sim. size:636
+inst trace sim. size:119338
+call trace similarity:99.22
+inst trace similarity:99.6518
+
+diff files <fft/pin/p16/thread3-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.103.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7060
+t2 bbs size = 7089
+call trace 1 size = 644
+call trace 2 size = 662
+ProcessCalls:task calltask :(0,644)=644,(0,662)=662
+t1 inst size:119756
+t2 inst size:119722
+call trace diff:
+636,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,57456,30491,28167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:320
+t2 unique size:181
+call trace sim. size:636
+inst trace sim. size:116114
+call trace similarity:98.7578
+inst trace similarity:96.9588
+
+diff files <fft/pin/p16/thread4-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.104.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7041
+t2 bbs size = 7098
+call trace 1 size = 637
+call trace 2 size = 666
+ProcessCalls:task calltask :(0,637)=637,(0,666)=666
+t1 inst size:119679
+t2 inst size:119745
+call trace diff:
+632,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,31442,48090,39766,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:310
+t2 unique size:164
+call trace sim. size:632
+inst trace sim. size:119298
+call trace similarity:99.2151
+inst trace similarity:99.6816
+
+diff files <fft/pin/p16/thread5-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.105.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7065
+t2 bbs size = 7096
+call trace 1 size = 648
+call trace 2 size = 665
+ProcessCalls:task calltask :(0,648)=648,(0,665)=665
+t1 inst size:119723
+t2 inst size:119744
+call trace diff:
+644,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,36952,30767,51692,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:264
+t2 unique size:176
+call trace sim. size:644
+inst trace sim. size:119411
+call trace similarity:99.3827
+inst trace similarity:99.7394
+
+diff files <fft/pin/p16/thread6-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.106.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7044
+t2 bbs size = 7088
+call trace 1 size = 640
+call trace 2 size = 665
+ProcessCalls:task calltask :(0,640)=640,(0,665)=665
+t1 inst size:120617
+t2 inst size:119745
+call trace diff:
+635,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,48029,48751,22515,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:1253
+t2 unique size:215
+call trace sim. size:635
+inst trace sim. size:119295
+call trace similarity:99.2188
+inst trace similarity:98.904
+
+diff files <fft/pin/p16/thread7-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.107.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7056
+t2 bbs size = 7088
+call trace 1 size = 644
+call trace 2 size = 661
+ProcessCalls:task calltask :(0,644)=644,(0,661)=661
+t1 inst size:119676
+t2 inst size:119701
+call trace diff:
+640,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,48206,42840,25096,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:253
+t2 unique size:165
+call trace sim. size:640
+inst trace sim. size:116142
+call trace similarity:99.3789
+inst trace similarity:97.047
+
+diff files <fft/pin/p16/thread8-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.108.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7040
+t2 bbs size = 7084
+call trace 1 size = 642
+call trace 2 size = 663
+ProcessCalls:task calltask :(0,642)=642,(0,663)=663
+t1 inst size:120588
+t2 inst size:119721
+call trace diff:
+635,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,51039,35940,32298,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:1233
+t2 unique size:211
+call trace sim. size:635
+inst trace sim. size:119277
+call trace similarity:98.9097
+inst trace similarity:98.9128
+
+diff files <fft/pin/p16/thread9-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.109.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7059
+t2 bbs size = 7090
+call trace 1 size = 643
+call trace 2 size = 661
+ProcessCalls:task calltask :(0,643)=643,(0,661)=661
+t1 inst size:120641
+t2 inst size:119831
+call trace diff:
+0,641,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+33851,0,44308,41198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:1228
+t2 unique size:298
+call trace sim. size:641
+inst trace sim. size:119357
+call trace similarity:99.689
+inst trace similarity:98.9357
+
+diff files <fft/pin/p16/thread10-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.110.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7047
+t2 bbs size = 7090
+call trace 1 size = 641
+call trace 2 size = 662
+ProcessCalls:task calltask :(0,641)=641,(0,662)=662
+t1 inst size:119647
+t2 inst size:119704
+call trace diff:
+639,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,31642,59654,28052,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:256
+t2 unique size:153
+call trace sim. size:639
+inst trace sim. size:119348
+call trace similarity:99.688
+inst trace similarity:99.7501
+
+diff files <fft/pin/p16/thread11-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.111.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7062
+t2 bbs size = 7095
+call trace 1 size = 647
+call trace 2 size = 664
+ProcessCalls:task calltask :(0,647)=647,(0,664)=664
+t1 inst size:119721
+t2 inst size:119722
+call trace diff:
+0,645,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+48087,0,36174,35158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:274
+t2 unique size:167
+call trace sim. size:645
+inst trace sim. size:119419
+call trace similarity:99.6909
+inst trace similarity:99.7477
+
+diff files <fft/pin/p16/thread12-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.112.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7068
+t2 bbs size = 7091
+call trace 1 size = 647
+call trace 2 size = 664
+ProcessCalls:task calltask :(0,647)=647,(0,664)=664
+t1 inst size:119949
+t2 inst size:119724
+call trace diff:
+645,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,32960,28686,57740,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:499
+t2 unique size:185
+call trace sim. size:645
+inst trace sim. size:119386
+call trace similarity:99.6909
+inst trace similarity:99.5306
+
+diff files <fft/pin/p16/thread13-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.113.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7048
+t2 bbs size = 7096
+call trace 1 size = 640
+call trace 2 size = 665
+ProcessCalls:task calltask :(0,640)=640,(0,665)=665
+t1 inst size:119720
+t2 inst size:119744
+call trace diff:
+637,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,52803,43674,22819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:325
+t2 unique size:176
+call trace sim. size:637
+inst trace sim. size:119296
+call trace similarity:99.5312
+inst trace similarity:99.6458
+
+diff files <fft/pin/p16/thread14-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.114.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7049
+t2 bbs size = 7096
+call trace 1 size = 640
+call trace 2 size = 665
+ProcessCalls:task calltask :(0,640)=640,(0,665)=665
+t1 inst size:119643
+t2 inst size:119743
+call trace diff:
+0,0,639,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+38193,43387,0,37786,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:244
+t2 unique size:172
+call trace sim. size:639
+inst trace sim. size:119366
+call trace similarity:99.8438
+inst trace similarity:99.7685
+
+diff files <fft/pin/p16/thread15-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.115.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7065
+t2 bbs size = 7099
+call trace 1 size = 648
+call trace 2 size = 666
+ProcessCalls:task calltask :(0,648)=648,(0,666)=666
+t1 inst size:119718
+t2 inst size:119742
+call trace diff:
+646,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,30667,54731,34001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:269
+t2 unique size:169
+call trace sim. size:646
+inst trace sim. size:119399
+call trace similarity:99.6914
+inst trace similarity:99.7335
+
+diff files <fft/pin/p16/thread16-trace.out.gz,fft/m5/p16/m5out/X86/m5trace.out.116.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 7052
+t2 bbs size = 7090
+call trace 1 size = 644
+call trace 2 size = 664
+ProcessCalls:task calltask :(0,644)=644,(0,664)=664
+t1 inst size:119807
+t2 inst size:119724
+call trace diff:
+640,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,44151,26508,48684,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:416
+t2 unique size:185
+call trace sim. size:640
+inst trace sim. size:119343
+call trace similarity:99.3789
+inst trace similarity:99.6127
+
+diff files <fft/pin/p1/thread0-trace.out.gz,fft/m5/p1/m5out/X86/m5trace.out.100.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 51147
+t2 bbs size = 51137
+call trace 1 size = 17442
+call trace 2 size = 17609
+ProcessCalls:task calltask :(0,17442)=17442,(0,17609)=17609
+t1 inst size:469343
+t2 inst size:467775
+call trace diff:
+17342,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,155274,144386,157145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7015
+t2 unique size:5641
+call trace sim. size:17342
+inst trace sim. size:456805
+call trace similarity:99.4267
+inst trace similarity:97.3286
+
+diff files <fft/pin/p1/thread1-trace.out.gz,fft/m5/p1/m5out/X86/m5trace.out.101.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 84459
+t2 bbs size = 84459
+call trace 1 size = 9126
+call trace 2 size = 9126
+ProcessCalls:task calltask :(0,9126)=9126,(0,9126)=9126
+t1 inst size:1772523
+t2 inst size:1771960
+call trace diff:
+0,9126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+646844,0,535679,588888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:1102
+t2 unique size:396
+call trace sim. size:9126
+inst trace sim. size:1771411
+call trace similarity:100
+inst trace similarity:99.9373
+
+diff files <fft/pin/p4/thread2-trace.out.gz,fft/m5/p4/m5out/X86/m5trace.out.102.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 22004
+t2 bbs size = 22000
+call trace 1 size = 2316
+call trace 2 size = 2316
+ProcessCalls:task calltask :(0,2316)=2316,(0,2316)=2316
+t1 inst size:447976
+t2 inst size:448341
+call trace diff:
+0,2310,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+180745,0,155968,110875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:296
+t2 unique size:677
+call trace sim. size:2310
+inst trace sim. size:447588
+call trace similarity:99.7409
+inst trace similarity:99.9134
+
+diff files <fft/pin/p4/thread3-trace.out.gz,fft/m5/p4/m5out/X86/m5trace.out.103.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 22008
+t2 bbs size = 22015
+call trace 1 size = 2314
+call trace 2 size = 2316
+ProcessCalls:task calltask :(0,2314)=2314,(0,2316)=2316
+t1 inst size:447967
+t2 inst size:448064
+call trace diff:
+2314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,162100,149582,135985,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:281
+t2 unique size:357
+call trace sim. size:2314
+inst trace sim. size:447667
+call trace similarity:100
+inst trace similarity:99.933
+
+diff files <fft/pin/p4/thread4-trace.out.gz,fft/m5/p4/m5out/X86/m5trace.out.104.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 22007
+t2 bbs size = 21997
+call trace 1 size = 2316
+call trace 2 size = 2316
+ProcessCalls:task calltask :(0,2316)=2316,(0,2316)=2316
+t1 inst size:447898
+t2 inst size:448091
+call trace diff:
+2311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,148913,111344,187360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:206
+t2 unique size:427
+call trace sim. size:2311
+inst trace sim. size:447617
+call trace similarity:99.7841
+inst trace similarity:99.9373
+
+diff files <radix/pin/p2/thread0-trace.out.gz,radix/m5/p2/m5out/X86/m5trace.out.400.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 137168
+t2 bbs size = 136893
+call trace 1 size = 850
+call trace 2 size = 943
+ProcessCalls:task calltask :(0,850)=850,(0,943)=943
+wrong size:131074,131074
+t1 inst size:1085468
+t2 inst size:1081690
+call trace diff:
+702,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,8043,7909,8071,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7028
+t2 unique size:4650
+call trace sim. size:702
+inst trace sim. size:24023
+call trace similarity:82.5882
+inst trace similarity:2.21315
+
+diff files <radix/pin/p2/thread1-trace.out.gz,radix/m5/p2/m5out/X86/m5trace.out.401.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 438735
+t2 bbs size = 438724
+call trace size error: 262257, 262254
+
+diff files <radix/pin/p2/thread2-trace.out.gz,radix/m5/p2/m5out/X86/m5trace.out.402.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 440791
+t2 bbs size = 440766
+call trace size error: 262276, 262271
+
+diff files <radix/pin/p16/thread0-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.400.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 143362
+t2 bbs size = 143121
+call trace 1 size = 2082
+call trace 2 size = 2116
+ProcessCalls:task calltask :(0,2082)=2082,(0,2116)=2116
+wrong size:131074,131074
+t1 inst size:1115709
+t2 inst size:1111095
+call trace diff:
+1878,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,15662,17216,17062,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:9216
+t2 unique size:6351
+call trace sim. size:1878
+inst trace sim. size:49940
+call trace similarity:90.2017
+inst trace similarity:4.47608
+
+diff files <radix/pin/p16/thread1-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.401.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 66082
+t2 bbs size = 66113
+call trace size error: 32908, 32926
+
+diff files <radix/pin/p16/thread2-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.402.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 68175
+t2 bbs size = 68239
+call trace size error: 32908, 32932
+
+diff files <radix/pin/p16/thread3-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.403.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 68255
+t2 bbs size = 68192
+call trace size error: 32929, 32926
+
+diff files <radix/pin/p16/thread4-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.404.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 74649
+t2 bbs size = 74575
+call trace size error: 33011, 32990
+
+diff files <radix/pin/p16/thread5-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.405.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 68121
+t2 bbs size = 68133
+call trace size error: 32913, 32921
+
+diff files <radix/pin/p16/thread6-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.406.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 72415
+t2 bbs size = 72384
+call trace size error: 32954, 32948
+
+diff files <radix/pin/p16/thread7-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.407.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 70225
+t2 bbs size = 70263
+call trace size error: 32911, 32934
+
+diff files <radix/pin/p16/thread8-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.408.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 68172
+t2 bbs size = 72643
+call trace size error: 32911, 33009
+
+diff files <radix/pin/p16/thread9-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.409.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 72466
+t2 bbs size = 68160
+call trace size error: 32949, 32908
+
+diff files <radix/pin/p16/thread10-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.410.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 72405
+t2 bbs size = 72391
+call trace size error: 32953, 32953
+
+diff files <radix/pin/p16/thread11-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.411.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 70239
+t2 bbs size = 70270
+call trace size error: 32918, 32938
+
+diff files <radix/pin/p16/thread12-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.412.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 76592
+t2 bbs size = 76685
+call trace size error: 32977, 33010
+
+diff files <radix/pin/p16/thread13-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.413.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 70244
+t2 bbs size = 70209
+call trace size error: 32918, 32914
+
+diff files <radix/pin/p16/thread14-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.414.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 74406
+t2 bbs size = 74481
+call trace size error: 32937, 32962
+
+diff files <radix/pin/p16/thread15-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.415.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 72217
+t2 bbs size = 72264
+call trace size error: 32894, 32922
+
+diff files <radix/pin/p16/thread16-trace.out.gz,radix/m5/p16/m5out/X86/m5trace.out.416.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 80845
+t2 bbs size = 80798
+call trace size error: 33034, 33023
+
+diff files <radix/pin/p1/thread0-trace.out.gz,radix/m5/p1/m5out/X86/m5trace.out.400.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 136954
+t2 bbs size = 136628
+call trace 1 size = 838
+call trace 2 size = 901
+ProcessCalls:task calltask :(0,838)=838,(0,901)=901
+wrong size:131074,131074
+t1 inst size:1083937
+t2 inst size:1080123
+call trace diff:
+666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,6905,9281,6432,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:6628
+t2 unique size:4543
+call trace sim. size:666
+inst trace sim. size:22618
+call trace similarity:79.4749
+inst trace similarity:2.08665
+
+diff files <radix/pin/p1/thread1-trace.out.gz,radix/m5/p1/m5out/X86/m5trace.out.401.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 862611
+t2 bbs size = 862602
+call trace size error: 524388, 524386
+
+diff files <radix/pin/p8/thread0-trace.out.gz,radix/m5/p8/m5out/X86/m5trace.out.400.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 139886
+t2 bbs size = 139543
+call trace 1 size = 1355
+call trace 2 size = 1431
+ProcessCalls:task calltask :(0,1355)=1355,(0,1431)=1431
+wrong size:131074,131074
+t1 inst size:1098179
+t2 inst size:1094394
+call trace diff:
+1184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,8911,13818,12716,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7460
+t2 unique size:5337
+call trace sim. size:1184
+inst trace sim. size:35445
+call trace similarity:87.3801
+inst trace similarity:3.22762
+
+diff files <radix/pin/p8/thread1-trace.out.gz,radix/m5/p8/m5out/X86/m5trace.out.401.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 119279
+t2 bbs size = 119295
+call trace size error: 65672, 65687
+
+diff files <radix/pin/p8/thread2-trace.out.gz,radix/m5/p8/m5out/X86/m5trace.out.402.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 123573
+t2 bbs size = 123546
+call trace size error: 65711, 65707
+
+diff files <radix/pin/p8/thread3-trace.out.gz,radix/m5/p8/m5out/X86/m5trace.out.403.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 121418
+t2 bbs size = 121424
+call trace size error: 65682, 65690
+
+diff files <radix/pin/p8/thread4-trace.out.gz,radix/m5/p8/m5out/X86/m5trace.out.404.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 127692
+t2 bbs size = 127785
+call trace size error: 65727, 65763
+
+diff files <radix/pin/p8/thread5-trace.out.gz,radix/m5/p8/m5out/X86/m5trace.out.405.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 121423
+t2 bbs size = 121431
+call trace size error: 65685, 65692
+
+diff files <radix/pin/p8/thread6-trace.out.gz,radix/m5/p8/m5out/X86/m5trace.out.406.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 125522
+t2 bbs size = 125634
+call trace size error: 65696, 65727
+
+diff files <radix/pin/p8/thread7-trace.out.gz,radix/m5/p8/m5out/X86/m5trace.out.407.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 123398
+t2 bbs size = 123437
+call trace size error: 65658, 65678
+
+diff files <radix/pin/p8/thread8-trace.out.gz,radix/m5/p8/m5out/X86/m5trace.out.408.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 129891
+t2 bbs size = 129806
+call trace size error: 65774, 65750
+
+diff files <lu-non/pin/p2/thread0-trace.out.gz,lu-non/m5/p2/m5out/X86/m5trace.out.300.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 205229
+t2 bbs size = 204626
+call trace size error: 99311, 99291
+
+diff files <lu-non/pin/p2/thread1-trace.out.gz,lu-non/m5/p2/m5out/X86/m5trace.out.301.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 496311
+t2 bbs size = 496325
+call trace size error: 48767, 48766
+
+diff files <lu-non/pin/p2/thread2-trace.out.gz,lu-non/m5/p2/m5out/X86/m5trace.out.302.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 482536
+t2 bbs size = 482535
+call trace size error: 47648, 47654
+
+diff files <lu-non/pin/p16/thread0-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.300.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 209030
+t2 bbs size = 208385
+call trace size error: 100208, 100187
+
+diff files <lu-non/pin/p16/thread1-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.301.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 4562
+t2 bbs size = 4569
+call trace 1 size = 1050
+call trace 2 size = 1057
+ProcessCalls:task calltask :(0,1050)=1050,(0,1057)=1057
+t1 inst size:53043
+t2 inst size:51318
+call trace diff:
+1038,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,8559,21473,19133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:3758
+t2 unique size:1496
+call trace sim. size:1038
+inst trace sim. size:49165
+call trace similarity:98.8571
+inst trace similarity:92.689
+
+diff files <lu-non/pin/p16/thread2-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.302.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 8823
+t2 bbs size = 8825
+call trace 1 size = 1418
+call trace 2 size = 1421
+ProcessCalls:task calltask :(0,1418)=1418,(0,1421)=1421
+t1 inst size:115799
+t2 inst size:115703
+call trace diff:
+1411,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,57558,28722,29055,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:398
+t2 unique size:298
+call trace sim. size:1411
+inst trace sim. size:115335
+call trace similarity:99.5063
+inst trace similarity:99.5993
+
+diff files <lu-non/pin/p16/thread3-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.303.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 16711
+t2 bbs size = 16719
+call trace 1 size = 2171
+call trace 2 size = 2178
+ProcessCalls:task calltask :(0,2171)=2171,(0,2178)=2178
+t1 inst size:237834
+t2 inst size:236792
+call trace diff:
+0,2167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+75373,0,72986,88010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:1390
+t2 unique size:326
+call trace sim. size:2167
+inst trace sim. size:236369
+call trace similarity:99.8158
+inst trace similarity:99.384
+
+diff files <lu-non/pin/p16/thread4-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.304.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 26645
+t2 bbs size = 26645
+call trace 1 size = 3194
+call trace 2 size = 3200
+ProcessCalls:task calltask :(0,3194)=3194,(0,3200)=3200
+t1 inst size:389406
+t2 inst size:388350
+call trace diff:
+3183,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,124050,139426,124417,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:1392
+t2 unique size:332
+call trace sim. size:3183
+inst trace sim. size:387893
+call trace similarity:99.6556
+inst trace similarity:99.6115
+
+diff files <lu-non/pin/p16/thread5-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.305.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 39955
+t2 bbs size = 39982
+call trace 1 size = 4460
+call trace 2 size = 4475
+ProcessCalls:task calltask :(0,4460)=4460,(0,4475)=4475
+t1 inst size:593644
+t2 inst size:593621
+call trace diff:
+4454,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,222485,183389,187264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:436
+t2 unique size:316
+call trace sim. size:4454
+inst trace sim. size:593138
+call trace similarity:99.8655
+inst trace similarity:99.9148
+
+diff files <lu-non/pin/p16/thread6-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.306.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 55317
+t2 bbs size = 55340
+call trace 1 size = 5998
+call trace 2 size = 6012
+ProcessCalls:task calltask :(0,5998)=5998,(0,6012)=6012
+t1 inst size:829369
+t2 inst size:829343
+call trace diff:
+5991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,245023,259364,324488,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:423
+t2 unique size:313
+call trace sim. size:5991
+inst trace sim. size:828875
+call trace similarity:99.8833
+inst trace similarity:99.9404
+
+diff files <lu-non/pin/p16/thread7-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.307.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 74063
+t2 bbs size = 74101
+call trace 1 size = 7778
+call trace 2 size = 7799
+ProcessCalls:task calltask :(0,7778)=7778,(0,7799)=7799
+t1 inst size:1118740
+t2 inst size:1118777
+call trace diff:
+7774,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,420768,361762,335749,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:412
+t2 unique size:312
+call trace sim. size:7774
+inst trace sim. size:1118279
+call trace similarity:99.9486
+inst trace similarity:99.9588
+
+diff files <lu-non/pin/p16/thread8-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.308.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 94840
+t2 bbs size = 94905
+call trace 1 size = 9826
+call trace 2 size = 9859
+ProcessCalls:task calltask :(0,9826)=9826,(0,9859)=9859
+t1 inst size:1438599
+t2 inst size:1438744
+call trace diff:
+9826,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,529539,460212,448413,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:416
+t2 unique size:325
+call trace sim. size:9826
+inst trace sim. size:1438164
+call trace similarity:100
+inst trace similarity:99.9698
+
+diff files <lu-non/pin/p16/thread9-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.309.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 112054
+t2 bbs size = 112101
+call trace 1 size = 11374
+call trace 2 size = 11396
+ProcessCalls:task calltask :(0,11374)=11374,(0,11396)=11396
+t1 inst size:1707831
+t2 inst size:1707911
+call trace diff:
+11365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,552756,584506,570123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:368
+t2 unique size:279
+call trace sim. size:11365
+inst trace sim. size:1707385
+call trace similarity:99.9209
+inst trace similarity:99.9739
+
+diff files <lu-non/pin/p16/thread10-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.310.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 120440
+t2 bbs size = 120493
+call trace 1 size = 12160
+call trace 2 size = 12184
+ProcessCalls:task calltask :(0,12160)=12160,(0,12184)=12184
+t1 inst size:1839229
+t2 inst size:1839311
+call trace diff:
+12155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,608145,642498,588170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:368
+t2 unique size:258
+call trace sim. size:12155
+inst trace sim. size:1838813
+call trace similarity:99.9589
+inst trace similarity:99.9774
+
+diff files <lu-non/pin/p16/thread11-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.311.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 121352
+t2 bbs size = 121393
+call trace 1 size = 12158
+call trace 2 size = 12177
+ProcessCalls:task calltask :(0,12158)=12158,(0,12177)=12177
+t1 inst size:1855952
+t2 inst size:1855989
+call trace diff:
+12149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,600896,623431,631168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:384
+t2 unique size:280
+call trace sim. size:12149
+inst trace sim. size:1855495
+call trace similarity:99.926
+inst trace similarity:99.9754
+
+diff files <lu-non/pin/p16/thread12-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.312.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 113458
+t2 bbs size = 113505
+call trace 1 size = 11404
+call trace 2 size = 11426
+ProcessCalls:task calltask :(0,11404)=11404,(0,11426)=11426
+t1 inst size:1734864
+t2 inst size:1734927
+call trace diff:
+11398,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,596960,566637,570843,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:368
+t2 unique size:253
+call trace sim. size:11398
+inst trace sim. size:1734440
+call trace similarity:99.9474
+inst trace similarity:99.9756
+
+diff files <lu-non/pin/p16/thread13-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.313.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 98091
+t2 bbs size = 98131
+call trace 1 size = 9862
+call trace 2 size = 9881
+ProcessCalls:task calltask :(0,9862)=9862,(0,9881)=9881
+t1 inst size:1499105
+t2 inst size:1499138
+call trace diff:
+9849,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,508609,482847,507172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:368
+t2 unique size:256
+call trace sim. size:9849
+inst trace sim. size:1498628
+call trace similarity:99.8682
+inst trace similarity:99.9682
+
+diff files <lu-non/pin/p16/thread14-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.314.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 73900
+t2 bbs size = 73948
+call trace 1 size = 7560
+call trace 2 size = 7583
+ProcessCalls:task calltask :(0,7560)=7560,(0,7583)=7583
+t1 inst size:1125486
+t2 inst size:1125582
+call trace diff:
+7552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,402856,375624,346514,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:357
+t2 unique size:284
+call trace sim. size:7552
+inst trace sim. size:1124994
+call trace similarity:99.8942
+inst trace similarity:99.9563
+
+diff files <lu-non/pin/p16/thread15-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.315.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 42238
+t2 bbs size = 42305
+call trace 1 size = 4472
+call trace 2 size = 4503
+ProcessCalls:task calltask :(0,4472)=4472,(0,4503)=4503
+t1 inst size:637193
+t2 inst size:637356
+call trace diff:
+4465,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,182594,225513,228667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:350
+t2 unique size:267
+call trace sim. size:4465
+inst trace sim. size:636774
+call trace similarity:99.8435
+inst trace similarity:99.9342
+
+diff files <lu-non/pin/p16/thread16-trace.out.gz,lu-non/m5/p16/m5out/X86/m5trace.out.316.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1847
+t2 bbs size = 1849
+call trace 1 size = 666
+call trace 2 size = 668
+ProcessCalls:task calltask :(0,666)=666,(0,668)=668
+t1 inst size:11482
+t2 inst size:11397
+call trace diff:
+0,0,663,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+2746,4283,0,3970,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:439
+t2 unique size:351
+call trace sim. size:663
+inst trace sim. size:10999
+call trace similarity:99.5495
+inst trace similarity:95.7934
+
+diff files <lu-non/pin/p1/thread0-trace.out.gz,lu-non/m5/p1/m5out/X86/m5trace.out.300.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 205004
+t2 bbs size = 204241
+call trace size error: 99260, 99229
+
+diff files <lu-non/pin/p1/thread1-trace.out.gz,lu-non/m5/p1/m5out/X86/m5trace.out.301.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 977139
+t2 bbs size = 977139
+call trace size error: 95815, 95815
+
+diff files <lu-non/pin/p4/thread0-trace.out.gz,lu-non/m5/p4/m5out/X86/m5trace.out.300.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 205384
+t2 bbs size = 204294
+call trace size error: 99318, 99258
+
+diff files <lu-non/pin/p4/thread1-trace.out.gz,lu-non/m5/p4/m5out/X86/m5trace.out.301.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 249183
+t2 bbs size = 249223
+call trace 1 size = 24778
+call trace 2 size = 24796
+ProcessCalls:task calltask :(0,24778)=24778,(0,24796)=24796
+t1 inst size:3819341
+t2 inst size:3817865
+call trace diff:
+0,24761,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+1294963,0,1267671,1252999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:3556
+t2 unique size:1407
+call trace sim. size:24761
+inst trace sim. size:3815633
+call trace similarity:99.9314
+inst trace similarity:99.9029
+
+diff files <lu-non/pin/p4/thread2-trace.out.gz,lu-non/m5/p4/m5out/X86/m5trace.out.302.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 252999
+t2 bbs size = 253029
+call trace 1 size = 25168
+call trace 2 size = 25183
+ProcessCalls:task calltask :(0,25168)=25168,(0,25183)=25183
+t1 inst size:3875724
+t2 inst size:3875815
+call trace diff:
+0,25154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+1322284,0,1284601,1268376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:318
+t2 unique size:310
+call trace sim. size:25154
+inst trace sim. size:3875261
+call trace similarity:99.9444
+inst trace similarity:99.9881
+
+diff files <lu-non/pin/p4/thread3-trace.out.gz,lu-non/m5/p4/m5out/X86/m5trace.out.303.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 248900
+t2 bbs size = 248971
+call trace 1 size = 24616
+call trace 2 size = 24650
+ProcessCalls:task calltask :(0,24616)=24616,(0,24650)=24650
+t1 inst size:3814613
+t2 inst size:3814813
+call trace diff:
+24611,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1315351,1258498,1240417,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:292
+t2 unique size:225
+call trace sim. size:24611
+inst trace sim. size:3814266
+call trace similarity:99.9797
+inst trace similarity:99.9909
+
+diff files <lu-non/pin/p4/thread4-trace.out.gz,lu-non/m5/p4/m5out/X86/m5trace.out.304.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 231316
+t2 bbs size = 231359
+call trace 1 size = 23118
+call trace 2 size = 23143
+ProcessCalls:task calltask :(0,23118)=23118,(0,23143)=23143
+t1 inst size:3539149
+t2 inst size:3539244
+call trace diff:
+0,23110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+1202369,0,1137679,1198710,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:292
+t2 unique size:225
+call trace sim. size:23110
+inst trace sim. size:3538758
+call trace similarity:99.9654
+inst trace similarity:99.989
+
+diff files <lu-non/pin/p8/thread0-trace.out.gz,lu-non/m5/p8/m5out/X86/m5trace.out.300.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 206720
+t2 bbs size = 205660
+call trace size error: 99612, 99546
+
+diff files <lu-non/pin/p8/thread1-trace.out.gz,lu-non/m5/p8/m5out/X86/m5trace.out.301.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 114777
+t2 bbs size = 114822
+call trace 1 size = 11760
+call trace 2 size = 11783
+ProcessCalls:task calltask :(0,11760)=11760,(0,11783)=11783
+t1 inst size:1749347
+t2 inst size:1747866
+call trace diff:
+0,11747,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+570923,0,529992,644707,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:3611
+t2 unique size:1455
+call trace sim. size:11747
+inst trace sim. size:1745622
+call trace similarity:99.8895
+inst trace similarity:99.7871
+
+diff files <lu-non/pin/p8/thread2-trace.out.gz,lu-non/m5/p8/m5out/X86/m5trace.out.302.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 127415
+t2 bbs size = 127467
+call trace 1 size = 12910
+call trace 2 size = 12936
+ProcessCalls:task calltask :(0,12910)=12910,(0,12936)=12936
+t1 inst size:1943522
+t2 inst size:1943636
+call trace diff:
+12910,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,655035,618166,669982,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:325
+t2 unique size:247
+call trace sim. size:12910
+inst trace sim. size:1943183
+call trace similarity:100
+inst trace similarity:99.9826
+
+diff files <lu-non/pin/p8/thread3-trace.out.gz,lu-non/m5/p8/m5out/X86/m5trace.out.303.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 136226
+t2 bbs size = 136273
+call trace 1 size = 13666
+call trace 2 size = 13689
+ProcessCalls:task calltask :(0,13666)=13666,(0,13689)=13689
+t1 inst size:2081370
+t2 inst size:2081441
+call trace diff:
+13665,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,672576,704155,704245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:373
+t2 unique size:280
+call trace sim. size:13665
+inst trace sim. size:2080976
+call trace similarity:99.9927
+inst trace similarity:99.9811
+
+diff files <lu-non/pin/p8/thread4-trace.out.gz,lu-non/m5/p8/m5out/X86/m5trace.out.304.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 138262
+t2 bbs size = 138305
+call trace 1 size = 13936
+call trace 2 size = 13957
+ProcessCalls:task calltask :(0,13936)=13936,(0,13957)=13957
+t1 inst size:2111834
+t2 inst size:2111912
+call trace diff:
+0,13923,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+703960,0,693608,713817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:346
+t2 unique size:266
+call trace sim. size:13923
+inst trace sim. size:2111385
+call trace similarity:99.9067
+inst trace similarity:99.9787
+
+diff files <lu-non/pin/p8/thread5-trace.out.gz,lu-non/m5/p8/m5out/X86/m5trace.out.305.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 136220
+t2 bbs size = 136264
+call trace 1 size = 13664
+call trace 2 size = 13686
+ProcessCalls:task calltask :(0,13664)=13664,(0,13686)=13686
+t1 inst size:2081323
+t2 inst size:2081417
+call trace diff:
+13652,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,700276,653279,727320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:346
+t2 unique size:282
+call trace sim. size:13652
+inst trace sim. size:2080875
+call trace similarity:99.9122
+inst trace similarity:99.9785
+
+diff files <lu-non/pin/p8/thread6-trace.out.gz,lu-non/m5/p8/m5out/X86/m5trace.out.306.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 127390
+t2 bbs size = 127453
+call trace 1 size = 12900
+call trace 2 size = 12931
+ProcessCalls:task calltask :(0,12900)=12900,(0,12931)=12931
+t1 inst size:1943430
+t2 inst size:1943589
+call trace diff:
+12892,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,624510,655785,662685,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:324
+t2 unique size:242
+call trace sim. size:12892
+inst trace sim. size:1942980
+call trace similarity:99.938
+inst trace similarity:99.9768
+
+diff files <lu-non/pin/p8/thread7-trace.out.gz,lu-non/m5/p8/m5out/X86/m5trace.out.307.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 114480
+t2 bbs size = 114553
+call trace 1 size = 11597
+call trace 2 size = 11630
+ProcessCalls:task calltask :(0,11597)=11597,(0,11630)=11630
+t1 inst size:1744570
+t2 inst size:1744752
+call trace diff:
+0,11587,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+583413,0,556995,603734,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:339
+t2 unique size:254
+call trace sim. size:11587
+inst trace sim. size:1744142
+call trace similarity:99.9138
+inst trace similarity:99.9755
+
+diff files <lu-non/pin/p8/thread8-trace.out.gz,lu-non/m5/p8/m5out/X86/m5trace.out.308.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 94854
+t2 bbs size = 94885
+call trace 1 size = 9827
+call trace 2 size = 9848
+ProcessCalls:task calltask :(0,9827)=9827,(0,9848)=9848
+t1 inst size:1438600
+t2 inst size:1438639
+call trace diff:
+9812,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,485465,475451,477166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:343
+t2 unique size:260
+call trace sim. size:9812
+inst trace sim. size:1438082
+call trace similarity:99.8474
+inst trace similarity:99.964
+
+diff files <ocean/pin/p2/thread0-trace.out.gz,ocean/m5/p2/m5out/X86/m5trace.out.800.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 23264
+t2 bbs size = 23044
+call trace 1 size = 2424
+call trace 2 size = 2493
+ProcessCalls:task calltask :(0,2424)=2424,(0,2493)=2493
+t1 inst size:134686
+t2 inst size:132798
+call trace diff:
+2262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,41945,33337,46864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:6687
+t2 unique size:5753
+call trace sim. size:2262
+inst trace sim. size:122146
+call trace similarity:93.3168
+inst trace similarity:90.6895
+
+diff files <ocean/pin/p2/thread1-trace.out.gz,ocean/m5/p2/m5out/X86/m5trace.out.801.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 839508
+t2 bbs size = 839401
+call trace 1 size = 8139
+call trace 2 size = 8157
+ProcessCalls:task calltask :(0,8139)=8139,(0,8157)=8157
+t1 inst size:28144771
+t2 inst size:28143100
+call trace diff:
+7576,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+1211034,12502792,8625099,5793871,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5686
+t2 unique size:4745
+call trace sim. size:7576
+inst trace sim. size:28132796
+call trace similarity:93.0827
+inst trace similarity:99.9575
+
+diff files <ocean/pin/p2/thread2-trace.out.gz,ocean/m5/p2/m5out/X86/m5trace.out.802.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 841356
+t2 bbs size = 842256
+call trace 1 size = 7790
+call trace 2 size = 8046
+ProcessCalls:task calltask :(0,7790)=7790,(0,8046)=8046
+t1 inst size:28215327
+t2 inst size:28217119
+call trace diff:
+7406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+2132735,8868200,6766684,10439431,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5183
+t2 unique size:3516
+call trace sim. size:7406
+inst trace sim. size:28207050
+call trace similarity:95.0706
+inst trace similarity:99.9707
+
+diff files <ocean/pin/p16/thread0-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.800.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 105163
+t2 bbs size = 105230
+call trace 1 size = 10636
+call trace 2 size = 10748
+ProcessCalls:task calltask :(0,10636)=10636,(0,10748)=10748
+t1 inst size:577750
+t2 inst size:577971
+call trace diff:
+10519,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,168899,215096,181145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:8098
+t2 unique size:7380
+call trace sim. size:10519
+inst trace sim. size:565140
+call trace similarity:98.9
+inst trace similarity:97.8174
+
+diff files <ocean/pin/p16/thread1-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.801.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 141237
+t2 bbs size = 142212
+call trace 1 size = 4920
+call trace 2 size = 5431
+ProcessCalls:task calltask :(0,4920)=4920,(0,5431)=5431
+t1 inst size:3888626
+t2 inst size:3892526
+call trace diff:
+4620,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1060513,1414275,1393675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:6638
+t2 unique size:6709
+call trace sim. size:4620
+inst trace sim. size:3868463
+call trace similarity:93.9024
+inst trace similarity:99.4815
+
+diff files <ocean/pin/p16/thread2-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.802.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 141930
+t2 bbs size = 143270
+call trace 1 size = 4796
+call trace 2 size = 5474
+ProcessCalls:task calltask :(0,4796)=4796,(0,5474)=5474
+t1 inst size:3890261
+t2 inst size:3896788
+call trace diff:
+4671,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1337499,1049260,1491481,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4824
+t2 unique size:6413
+call trace sim. size:4671
+inst trace sim. size:3878240
+call trace similarity:97.3937
+inst trace similarity:99.691
+
+diff files <ocean/pin/p16/thread3-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.803.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 143228
+t2 bbs size = 144284
+call trace 1 size = 4855
+call trace 2 size = 5396
+ProcessCalls:task calltask :(0,4855)=4855,(0,5396)=5396
+t1 inst size:3899710
+t2 inst size:3904818
+call trace diff:
+4616,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1673437,1236005,963144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5052
+t2 unique size:6162
+call trace sim. size:4616
+inst trace sim. size:3872586
+call trace similarity:95.0772
+inst trace similarity:99.3045
+
+diff files <ocean/pin/p16/thread4-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.804.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 144339
+t2 bbs size = 145592
+call trace 1 size = 4848
+call trace 2 size = 5484
+ProcessCalls:task calltask :(0,4848)=4848,(0,5484)=5484
+t1 inst size:3940206
+t2 inst size:3946400
+call trace diff:
+4744,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,904459,1199306,1789870,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4936
+t2 unique size:6321
+call trace sim. size:4744
+inst trace sim. size:3893635
+call trace similarity:97.8548
+inst trace similarity:98.8181
+
+diff files <ocean/pin/p16/thread5-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.805.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 140557
+t2 bbs size = 141726
+call trace 1 size = 4834
+call trace 2 size = 5418
+ProcessCalls:task calltask :(0,4834)=4834,(0,5418)=5418
+t1 inst size:3872123
+t2 inst size:3877533
+call trace diff:
+4696,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1298062,1191224,1339093,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5034
+t2 unique size:6389
+call trace sim. size:4696
+inst trace sim. size:3828379
+call trace similarity:97.1452
+inst trace similarity:98.8703
+
+diff files <ocean/pin/p16/thread6-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.806.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 141458
+t2 bbs size = 142646
+call trace 1 size = 4818
+call trace 2 size = 5420
+ProcessCalls:task calltask :(0,4818)=4818,(0,5420)=5420
+t1 inst size:3880326
+t2 inst size:3886140
+call trace diff:
+4635,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1457384,1439854,964089,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4937
+t2 unique size:6332
+call trace sim. size:4635
+inst trace sim. size:3861327
+call trace similarity:96.2017
+inst trace similarity:99.5104
+
+diff files <ocean/pin/p16/thread7-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.807.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 142594
+t2 bbs size = 143602
+call trace 1 size = 4828
+call trace 2 size = 5352
+ProcessCalls:task calltask :(0,4828)=4828,(0,5352)=5352
+t1 inst size:3889650
+t2 inst size:3894572
+call trace diff:
+4606,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1504764,1270763,1101242,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5080
+t2 unique size:6119
+call trace sim. size:4606
+inst trace sim. size:3876769
+call trace similarity:95.4018
+inst trace similarity:99.6688
+
+diff files <ocean/pin/p16/thread8-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.808.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 143581
+t2 bbs size = 144720
+call trace 1 size = 4793
+call trace 2 size = 5388
+ProcessCalls:task calltask :(0,4793)=4793,(0,5388)=5388
+t1 inst size:3927614
+t2 inst size:3933211
+call trace diff:
+4576,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1312826,1156846,1450950,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4937
+t2 unique size:6232
+call trace sim. size:4576
+inst trace sim. size:3920622
+call trace similarity:95.4726
+inst trace similarity:99.822
+
+diff files <ocean/pin/p16/thread9-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.809.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 140492
+t2 bbs size = 141819
+call trace 1 size = 4802
+call trace 2 size = 5474
+ProcessCalls:task calltask :(0,4802)=4802,(0,5474)=5474
+t1 inst size:3872120
+t2 inst size:3878638
+call trace diff:
+4672,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1370055,1026903,1441235,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5012
+t2 unique size:6413
+call trace sim. size:4672
+inst trace sim. size:3838193
+call trace similarity:97.2928
+inst trace similarity:99.1238
+
+diff files <ocean/pin/p16/thread10-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.810.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 141543
+t2 bbs size = 142420
+call trace 1 size = 4872
+call trace 2 size = 5324
+ProcessCalls:task calltask :(0,4872)=4872,(0,5324)=5324
+t1 inst size:3882437
+t2 inst size:3886636
+call trace diff:
+4566,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1466010,941002,1467393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5178
+t2 unique size:6125
+call trace sim. size:4566
+inst trace sim. size:3874405
+call trace similarity:93.7192
+inst trace similarity:99.7931
+
+diff files <ocean/pin/p16/thread11-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.811.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 142599
+t2 bbs size = 143886
+call trace 1 size = 4825
+call trace 2 size = 5474
+ProcessCalls:task calltask :(0,4825)=4825,(0,5474)=5474
+t1 inst size:3891290
+t2 inst size:3897552
+call trace diff:
+4688,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1014851,1315401,1509808,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5045
+t2 unique size:6443
+call trace sim. size:4688
+inst trace sim. size:3840060
+call trace similarity:97.1606
+inst trace similarity:98.6835
+
+diff files <ocean/pin/p16/thread12-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.812.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 143641
+t2 bbs size = 144924
+call trace 1 size = 4826
+call trace 2 size = 5469
+ProcessCalls:task calltask :(0,4826)=4826,(0,5469)=5469
+t1 inst size:3928516
+t2 inst size:3934702
+call trace diff:
+4685,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1317109,942537,1646314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4967
+t2 unique size:6500
+call trace sim. size:4685
+inst trace sim. size:3905960
+call trace similarity:97.0783
+inst trace similarity:99.4258
+
+diff files <ocean/pin/p16/thread13-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.813.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 141932
+t2 bbs size = 142943
+call trace 1 size = 4870
+call trace 2 size = 5398
+ProcessCalls:task calltask :(0,4870)=4870,(0,5398)=5398
+t1 inst size:3905494
+t2 inst size:3910441
+call trace diff:
+4616,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1320836,1110349,1447607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5086
+t2 unique size:6153
+call trace sim. size:4616
+inst trace sim. size:3878792
+call trace similarity:94.7844
+inst trace similarity:99.3163
+
+diff files <ocean/pin/p16/thread14-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.814.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 142883
+t2 bbs size = 144154
+call trace 1 size = 4806
+call trace 2 size = 5454
+ProcessCalls:task calltask :(0,4806)=4806,(0,5454)=5454
+t1 inst size:3914036
+t2 inst size:3920258
+call trace diff:
+4650,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1219004,1011369,1667272,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4897
+t2 unique size:6301
+call trace sim. size:4650
+inst trace sim. size:3897645
+call trace similarity:96.7541
+inst trace similarity:99.5812
+
+diff files <ocean/pin/p16/thread15-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.815.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 144129
+t2 bbs size = 145250
+call trace 1 size = 4835
+call trace 2 size = 5412
+ProcessCalls:task calltask :(0,4835)=4835,(0,5412)=5412
+t1 inst size:3926031
+t2 inst size:3931497
+call trace diff:
+4642,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1130412,1488710,1281588,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4943
+t2 unique size:6199
+call trace sim. size:4642
+inst trace sim. size:3900710
+call trace similarity:96.0083
+inst trace similarity:99.355
+
+diff files <ocean/pin/p16/thread16-trace.out.gz,ocean/m5/p16/m5out/X86/m5trace.out.816.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 145290
+t2 bbs size = 146548
+call trace 1 size = 4854
+call trace 2 size = 5482
+ProcessCalls:task calltask :(0,4854)=4854,(0,5482)=5482
+t1 inst size:3964598
+t2 inst size:3970660
+call trace diff:
+4711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1897255,876893,1153070,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4969
+t2 unique size:6416
+call trace sim. size:4711
+inst trace sim. size:3927218
+call trace similarity:97.054
+inst trace similarity:99.0572
+
+diff files <ocean/pin/p1/thread0-trace.out.gz,ocean/m5/p1/m5out/X86/m5trace.out.800.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 18133
+t2 bbs size = 18256
+call trace 1 size = 1968
+call trace 2 size = 2091
+ProcessCalls:task calltask :(0,1968)=1968,(0,2091)=2091
+t1 inst size:108927
+t2 inst size:108470
+call trace diff:
+1864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,33001,36906,28107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:6569
+t2 unique size:5638
+call trace sim. size:1864
+inst trace sim. size:98014
+call trace similarity:94.7154
+inst trace similarity:89.9814
+
+diff files <ocean/pin/p1/thread1-trace.out.gz,ocean/m5/p1/m5out/X86/m5trace.out.801.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1638539
+t2 bbs size = 1638530
+call trace 1 size = 11815
+call trace 2 size = 11813
+ProcessCalls:task calltask :(0,11815)=11815,(0,11813)=11813
+t1 inst size:55923242
+t2 inst size:55922505
+call trace diff:
+0,11813,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+9111997,9829916,14342648,22634173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4458
+t2 unique size:3257
+call trace sim. size:11813
+inst trace sim. size:55918734
+call trace similarity:99.9831
+inst trace similarity:99.9919
+
+diff files <ocean/pin/p4/thread0-trace.out.gz,ocean/m5/p4/m5out/X86/m5trace.out.800.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 35987
+t2 bbs size = 35799
+call trace 1 size = 3516
+call trace 2 size = 3593
+ProcessCalls:task calltask :(0,3516)=3516,(0,3593)=3593
+t1 inst size:210289
+t2 inst size:208730
+call trace diff:
+3362,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,67614,55132,74971,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:6901
+t2 unique size:5985
+call trace sim. size:3362
+inst trace sim. size:197717
+call trace similarity:95.62
+inst trace similarity:94.0216
+
+diff files <ocean/pin/p4/thread1-trace.out.gz,ocean/m5/p4/m5out/X86/m5trace.out.801.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 448511
+t2 bbs size = 448761
+call trace 1 size = 6094
+call trace 2 size = 6239
+ProcessCalls:task calltask :(0,6094)=6094,(0,6239)=6239
+t1 inst size:14366483
+t2 inst size:14366711
+call trace diff:
+5634,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+61665,6099740,3384180,4810182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5746
+t2 unique size:4964
+call trace sim. size:5634
+inst trace sim. size:14355767
+call trace similarity:92.4516
+inst trace similarity:99.9254
+
+diff files <ocean/pin/p4/thread2-trace.out.gz,ocean/m5/p4/m5out/X86/m5trace.out.802.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 456806
+t2 bbs size = 457281
+call trace 1 size = 5996
+call trace 2 size = 6263
+ProcessCalls:task calltask :(0,5996)=5996,(0,6263)=6263
+t1 inst size:14487873
+t2 inst size:14490298
+call trace diff:
+5596,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,5147999,4012821,5142354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4056
+t2 unique size:4362
+call trace sim. size:5596
+inst trace sim. size:14303174
+call trace similarity:93.3289
+inst trace similarity:98.7251
+
+diff files <ocean/pin/p4/thread3-trace.out.gz,ocean/m5/p4/m5out/X86/m5trace.out.803.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 449905
+t2 bbs size = 450250
+call trace 1 size = 5995
+call trace 2 size = 6182
+ProcessCalls:task calltask :(0,5995)=5995,(0,6182)=6182
+t1 inst size:14403486
+t2 inst size:14404905
+call trace diff:
+5542,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,4431711,3409397,6539552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4073
+t2 unique size:4331
+call trace sim. size:5542
+inst trace sim. size:14380660
+call trace similarity:92.4437
+inst trace similarity:99.8415
+
+diff files <ocean/pin/p4/thread4-trace.out.gz,ocean/m5/p4/m5out/X86/m5trace.out.804.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 458524
+t2 bbs size = 459000
+call trace 1 size = 6010
+call trace 2 size = 6258
+ProcessCalls:task calltask :(0,6010)=6010,(0,6258)=6258
+t1 inst size:14534136
+t2 inst size:14536344
+call trace diff:
+5613,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,4732700,4950572,4663718,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4025
+t2 unique size:4292
+call trace sim. size:5613
+inst trace sim. size:14346990
+call trace similarity:93.3943
+inst trace similarity:98.7124
+
+diff files <ocean/pin/p8/thread0-trace.out.gz,ocean/m5/p8/m5out/X86/m5trace.out.800.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 58072
+t2 bbs size = 58152
+call trace 1 size = 5850
+call trace 2 size = 5964
+ProcessCalls:task calltask :(0,5850)=5850,(0,5964)=5964
+t1 inst size:318556
+t2 inst size:318583
+call trace diff:
+5735,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,97364,108620,100852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7240
+t2 unique size:6460
+call trace sim. size:5735
+inst trace sim. size:306836
+call trace similarity:98.0342
+inst trace similarity:96.3209
+
+diff files <ocean/pin/p8/thread1-trace.out.gz,ocean/m5/p8/m5out/X86/m5trace.out.801.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 240159
+t2 bbs size = 241775
+call trace 1 size = 5256
+call trace 2 size = 6075
+ProcessCalls:task calltask :(0,5256)=5256,(0,6075)=6075
+t1 inst size:7345879
+t2 inst size:7353194
+call trace diff:
+5095,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,3068858,2127485,2141614,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:6146
+t2 unique size:6926
+call trace sim. size:5095
+inst trace sim. size:7337957
+call trace similarity:96.9368
+inst trace similarity:99.8922
+
+diff files <ocean/pin/p8/thread2-trace.out.gz,ocean/m5/p8/m5out/X86/m5trace.out.802.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 244524
+t2 bbs size = 245513
+call trace 1 size = 5230
+call trace 2 size = 5757
+ProcessCalls:task calltask :(0,5230)=5230,(0,5757)=5757
+t1 inst size:7407217
+t2 inst size:7412131
+call trace diff:
+0,4853,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+1982384,0,3365832,2004042,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4556
+t2 unique size:5753
+call trace sim. size:4853
+inst trace sim. size:7352258
+call trace similarity:92.7916
+inst trace similarity:99.258
+
+diff files <ocean/pin/p8/thread3-trace.out.gz,ocean/m5/p8/m5out/X86/m5trace.out.803.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 239045
+t2 bbs size = 240643
+call trace 1 size = 5115
+call trace 2 size = 5916
+ProcessCalls:task calltask :(0,5115)=5115,(0,5916)=5916
+t1 inst size:7314761
+t2 inst size:7322595
+call trace diff:
+4919,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1827948,3265364,2160148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4513
+t2 unique size:6297
+call trace sim. size:4919
+inst trace sim. size:7253460
+call trace similarity:96.1681
+inst trace similarity:99.162
+
+diff files <ocean/pin/p8/thread4-trace.out.gz,ocean/m5/p8/m5out/X86/m5trace.out.804.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 243281
+t2 bbs size = 244444
+call trace 1 size = 5131
+call trace 2 size = 5736
+ProcessCalls:task calltask :(0,5131)=5131,(0,5736)=5736
+t1 inst size:7380547
+t2 inst size:7386232
+call trace diff:
+4796,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2459488,3378718,1488034,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4496
+t2 unique size:5846
+call trace sim. size:4796
+inst trace sim. size:7326240
+call trace similarity:93.4711
+inst trace similarity:99.2642
+
+diff files <ocean/pin/p8/thread5-trace.out.gz,ocean/m5/p8/m5out/X86/m5trace.out.805.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 239037
+t2 bbs size = 240536
+call trace 1 size = 5116
+call trace 2 size = 5870
+ProcessCalls:task calltask :(0,5116)=5116,(0,5870)=5870
+t1 inst size:7315028
+t2 inst size:7322399
+call trace diff:
+4907,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2455111,2535995,2276628,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4454
+t2 unique size:6205
+call trace sim. size:4907
+inst trace sim. size:7267734
+call trace similarity:95.9148
+inst trace similarity:99.3535
+
+diff files <ocean/pin/p8/thread6-trace.out.gz,ocean/m5/p8/m5out/X86/m5trace.out.806.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 243252
+t2 bbs size = 244645
+call trace 1 size = 5119
+call trace 2 size = 5826
+ProcessCalls:task calltask :(0,5119)=5119,(0,5826)=5826
+t1 inst size:7380870
+t2 inst size:7387709
+call trace diff:
+4848,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2396081,1806000,3105947,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4498
+t2 unique size:6045
+call trace sim. size:4848
+inst trace sim. size:7308028
+call trace similarity:94.706
+inst trace similarity:99.0131
+
+diff files <ocean/pin/p8/thread7-trace.out.gz,ocean/m5/p8/m5out/X86/m5trace.out.807.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 241549
+t2 bbs size = 242339
+call trace 1 size = 5168
+call trace 2 size = 5606
+ProcessCalls:task calltask :(0,5168)=5168,(0,5606)=5606
+t1 inst size:7380155
+t2 inst size:7383976
+call trace diff:
+0,4731,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+2828611,0,2679262,1815909,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4529
+t2 unique size:5452
+call trace sim. size:4731
+inst trace sim. size:7323782
+call trace similarity:91.5441
+inst trace similarity:99.2362
+
+diff files <ocean/pin/p8/thread8-trace.out.gz,ocean/m5/p8/m5out/X86/m5trace.out.808.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 246135
+t2 bbs size = 247503
+call trace 1 size = 5181
+call trace 2 size = 5874
+ProcessCalls:task calltask :(0,5181)=5181,(0,5874)=5874
+t1 inst size:7451245
+t2 inst size:7458022
+call trace diff:
+4898,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1825024,3215062,2392164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4509
+t2 unique size:5967
+call trace sim. size:4898
+inst trace sim. size:7432250
+call trace similarity:94.5377
+inst trace similarity:99.7451
+
+diff files <ocean-non/pin/p2/thread0-trace.out.gz,ocean-non/m5/p2/m5out/X86/m5trace.out.900.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 11935
+t2 bbs size = 12058
+call trace 1 size = 1083
+call trace 2 size = 1210
+ProcessCalls:task calltask :(0,1083)=1083,(0,1210)=1210
+t1 inst size:150852
+t2 inst size:150177
+call trace diff:
+984,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,12196,116397,11083,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:6834
+t2 unique size:5755
+call trace sim. size:984
+inst trace sim. size:139676
+call trace similarity:90.8587
+inst trace similarity:92.5914
+
+diff files <ocean-non/pin/p2/thread1-trace.out.gz,ocean-non/m5/p2/m5out/X86/m5trace.out.901.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 810425
+t2 bbs size = 810271
+call trace 1 size = 3652
+call trace 2 size = 3665
+ProcessCalls:task calltask :(0,3652)=3652,(0,3665)=3665
+t1 inst size:48904220
+t2 inst size:48903173
+call trace diff:
+0,3147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+14931213,7072112,14016914,12598529,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5207
+t2 unique size:4412
+call trace sim. size:3147
+inst trace sim. size:48618768
+call trace similarity:86.172
+inst trace similarity:99.4163
+
+diff files <ocean-non/pin/p2/thread2-trace.out.gz,ocean-non/m5/p2/m5out/X86/m5trace.out.902.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 809196
+t2 bbs size = 809859
+call trace 1 size = 3283
+call trace 2 size = 3538
+ProcessCalls:task calltask :(0,3283)=3283,(0,3538)=3538
+t1 inst size:49175699
+t2 inst size:49178029
+call trace diff:
+2972,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+6491999,15412805,11304544,15679523,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4215
+t2 unique size:3413
+call trace sim. size:2972
+inst trace sim. size:48888871
+call trace similarity:90.527
+inst trace similarity:99.4167
+
+diff files <ocean-non/pin/p16/thread0-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.900.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 17436
+t2 bbs size = 17609
+call trace 1 size = 2015
+call trace 2 size = 2153
+ProcessCalls:task calltask :(0,2015)=2015,(0,2153)=2153
+t1 inst size:216541
+t2 inst size:216318
+call trace diff:
+1926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,20497,20816,162850,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:8215
+t2 unique size:7332
+call trace sim. size:1926
+inst trace sim. size:204163
+call trace similarity:95.5831
+inst trace similarity:94.2838
+
+diff files <ocean-non/pin/p16/thread1-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.901.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 130444
+t2 bbs size = 131971
+call trace 1 size = 3791
+call trace 2 size = 4561
+ProcessCalls:task calltask :(0,3791)=3791,(0,4561)=4561
+t1 inst size:6298246
+t2 inst size:6304898
+call trace diff:
+3635,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2195485,1988003,2074858,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:6225
+t2 unique size:6858
+call trace sim. size:3635
+inst trace sim. size:6258346
+call trace similarity:95.885
+inst trace similarity:99.3665
+
+diff files <ocean-non/pin/p16/thread2-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.902.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 126051
+t2 bbs size = 127414
+call trace 1 size = 3721
+call trace 2 size = 4428
+ProcessCalls:task calltask :(0,3721)=3721,(0,4428)=4428
+t1 inst size:6210644
+t2 inst size:6217620
+call trace diff:
+0,3528,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+2001963,0,2105232,2036162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4346
+t2 unique size:5981
+call trace sim. size:3528
+inst trace sim. size:6143357
+call trace similarity:94.8132
+inst trace similarity:98.9166
+
+diff files <ocean-non/pin/p16/thread3-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.903.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 126211
+t2 bbs size = 127625
+call trace 1 size = 3727
+call trace 2 size = 4450
+ProcessCalls:task calltask :(0,3727)=3727,(0,4450)=4450
+t1 inst size:6213262
+t2 inst size:6220406
+call trace diff:
+3573,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2108754,2497210,1592467,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4377
+t2 unique size:6122
+call trace sim. size:3573
+inst trace sim. size:6198431
+call trace similarity:95.868
+inst trace similarity:99.7613
+
+diff files <ocean-non/pin/p16/thread4-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.904.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 121838
+t2 bbs size = 124371
+call trace 1 size = 3757
+call trace 2 size = 4458
+ProcessCalls:task calltask :(0,3757)=3757,(0,4458)=4458
+t1 inst size:6172059
+t2 inst size:6338924
+call trace diff:
+0,3579,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+2000271,0,1961231,2133159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4590
+t2 unique size:156240
+call trace sim. size:3579
+inst trace sim. size:6094661
+call trace similarity:95.2622
+inst trace similarity:98.746
+
+diff files <ocean-non/pin/p16/thread5-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.905.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 121476
+t2 bbs size = 123507
+call trace 1 size = 3684
+call trace 2 size = 4450
+ProcessCalls:task calltask :(0,3684)=3684,(0,4450)=4450
+t1 inst size:6169670
+t2 inst size:6253122
+call trace diff:
+3546,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2080797,2004090,2027446,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:6297
+t2 unique size:91583
+call trace sim. size:3546
+inst trace sim. size:6112333
+call trace similarity:96.2541
+inst trace similarity:99.0707
+
+diff files <ocean-non/pin/p16/thread6-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.906.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 122058
+t2 bbs size = 122970
+call trace 1 size = 3700
+call trace 2 size = 4418
+ProcessCalls:task calltask :(0,3700)=3700,(0,4418)=4418
+t1 inst size:6245949
+t2 inst size:6173954
+call trace diff:
+3537,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1805430,2231962,2066146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:89277
+t2 unique size:6884
+call trace sim. size:3537
+inst trace sim. size:6103538
+call trace similarity:95.5946
+inst trace similarity:97.7199
+
+diff files <ocean-non/pin/p16/thread7-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.907.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 122903
+t2 bbs size = 123159
+call trace 1 size = 3706
+call trace 2 size = 4434
+ProcessCalls:task calltask :(0,3706)=3706,(0,4434)=4434
+t1 inst size:6331648
+t2 inst size:6177061
+call trace diff:
+0,0,3541,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+2332752,2031567,0,1675205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:154496
+t2 unique size:6203
+call trace sim. size:3541
+inst trace sim. size:6039524
+call trace similarity:95.5478
+inst trace similarity:95.3863
+
+diff files <ocean-non/pin/p16/thread8-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.908.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 121879
+t2 bbs size = 123433
+call trace 1 size = 3638
+call trace 2 size = 4413
+ProcessCalls:task calltask :(0,3638)=3638,(0,4413)=4413
+t1 inst size:6244978
+t2 inst size:6290555
+call trace diff:
+0,3489,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+1919659,0,2200187,1979620,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:89565
+t2 unique size:106371
+call trace sim. size:3489
+inst trace sim. size:6099466
+call trace similarity:95.9043
+inst trace similarity:97.6699
+
+diff files <ocean-non/pin/p16/thread9-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.909.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 121454
+t2 bbs size = 123252
+call trace 1 size = 3641
+call trace 2 size = 4314
+ProcessCalls:task calltask :(0,3641)=3641,(0,4314)=4314
+t1 inst size:6166402
+t2 inst size:6251855
+call trace diff:
+3438,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2752259,1699370,1592149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5074
+t2 unique size:90794
+call trace sim. size:3438
+inst trace sim. size:6043778
+call trace similarity:94.4246
+inst trace similarity:98.0114
+
+diff files <ocean-non/pin/p16/thread10-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.910.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 122137
+t2 bbs size = 122935
+call trace 1 size = 3689
+call trace 2 size = 4394
+ProcessCalls:task calltask :(0,3689)=3689,(0,4394)=4394
+t1 inst size:6283519
+t2 inst size:6175189
+call trace diff:
+0,3524,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+2246425,0,1782896,2072544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:103450
+t2 unique size:6672
+call trace sim. size:3524
+inst trace sim. size:6101865
+call trace similarity:95.5272
+inst trace similarity:97.109
+
+diff files <ocean-non/pin/p16/thread11-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.911.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 121599
+t2 bbs size = 123137
+call trace 1 size = 3704
+call trace 2 size = 4454
+ProcessCalls:task calltask :(0,3704)=3704,(0,4454)=4454
+t1 inst size:6168583
+t2 inst size:6178941
+call trace diff:
+3596,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1930942,2162691,2034845,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5158
+t2 unique size:6821
+call trace sim. size:3596
+inst trace sim. size:6128478
+call trace similarity:97.0842
+inst trace similarity:99.3499
+
+diff files <ocean-non/pin/p16/thread12-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.912.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 125794
+t2 bbs size = 127320
+call trace 1 size = 3659
+call trace 2 size = 4432
+ProcessCalls:task calltask :(0,3659)=3659,(0,4432)=4432
+t1 inst size:6283740
+t2 inst size:6291394
+call trace diff:
+3513,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1467012,2621312,2131364,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4346
+t2 unique size:6087
+call trace sim. size:3513
+inst trace sim. size:6219688
+call trace similarity:96.0098
+inst trace similarity:98.9807
+
+diff files <ocean-non/pin/p16/thread13-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.913.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 130279
+t2 bbs size = 131780
+call trace 1 size = 3704
+call trace 2 size = 4456
+ProcessCalls:task calltask :(0,3704)=3704,(0,4456)=4456
+t1 inst size:6362908
+t2 inst size:6370403
+call trace diff:
+3516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2382231,2235863,1698015,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4317
+t2 unique size:6186
+call trace sim. size:3516
+inst trace sim. size:6316109
+call trace similarity:94.9244
+inst trace similarity:99.2645
+
+diff files <ocean-non/pin/p16/thread14-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.914.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 126058
+t2 bbs size = 127436
+call trace 1 size = 3730
+call trace 2 size = 4424
+ProcessCalls:task calltask :(0,3730)=3730,(0,4424)=4424
+t1 inst size:6281233
+t2 inst size:6287968
+call trace diff:
+3533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1979594,1939115,2311268,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4572
+t2 unique size:6118
+call trace sim. size:3533
+inst trace sim. size:6229977
+call trace similarity:94.7185
+inst trace similarity:99.184
+
+diff files <ocean-non/pin/p16/thread15-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.915.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 126189
+t2 bbs size = 127456
+call trace 1 size = 3724
+call trace 2 size = 4374
+ProcessCalls:task calltask :(0,3724)=3724,(0,4374)=4374
+t1 inst size:6286328
+t2 inst size:6292752
+call trace diff:
+3495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,1736632,1754420,2686526,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4376
+t2 unique size:5939
+call trace sim. size:3495
+inst trace sim. size:6177578
+call trace similarity:93.8507
+inst trace similarity:98.2701
+
+diff files <ocean-non/pin/p16/thread16-trace.out.gz,ocean-non/m5/p16/m5out/X86/m5trace.out.916.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 130541
+t2 bbs size = 132027
+call trace 1 size = 3751
+call trace 2 size = 4492
+ProcessCalls:task calltask :(0,3751)=3751,(0,4492)=4492
+t1 inst size:6405019
+t2 inst size:6412420
+call trace diff:
+0,3585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+1883950,0,2338307,2132896,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4473
+t2 unique size:6162
+call trace sim. size:3585
+inst trace sim. size:6355153
+call trace similarity:95.5745
+inst trace similarity:99.2215
+
+diff files <ocean-non/pin/p1/thread0-trace.out.gz,ocean-non/m5/p1/m5out/X86/m5trace.out.900.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 11600
+t2 bbs size = 11752
+call trace 1 size = 1047
+call trace 2 size = 1181
+ProcessCalls:task calltask :(0,1047)=1047,(0,1181)=1181
+t1 inst size:146197
+t2 inst size:145689
+call trace diff:
+952,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,110945,13496,10802,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:6740
+t2 unique size:5669
+call trace sim. size:952
+inst trace sim. size:135243
+call trace similarity:90.9265
+inst trace similarity:92.5074
+
+diff files <ocean-non/pin/p1/thread1-trace.out.gz,ocean-non/m5/p1/m5out/X86/m5trace.out.901.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1590229
+t2 bbs size = 1590219
+call trace 1 size = 3289
+call trace 2 size = 3287
+ProcessCalls:task calltask :(0,3289)=3289,(0,3287)=3287
+t1 inst size:97901227
+t2 inst size:97901143
+call trace diff:
+3287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+23083781,27019765,20082990,27710203,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4435
+t2 unique size:3203
+call trace sim. size:3287
+inst trace sim. size:97896739
+call trace similarity:99.9392
+inst trace similarity:99.9954
+
+diff files <ocean-non/pin/p4/thread0-trace.out.gz,ocean-non/m5/p4/m5out/X86/m5trace.out.900.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 12461
+t2 bbs size = 12290
+call trace 1 size = 1151
+call trace 2 size = 1235
+ProcessCalls:task calltask :(0,1151)=1151,(0,1235)=1235
+t1 inst size:159392
+t2 inst size:157447
+call trace diff:
+0,1004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+12640,0,12947,121047,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7063
+t2 unique size:6000
+call trace sim. size:1004
+inst trace sim. size:146634
+call trace similarity:87.2285
+inst trace similarity:91.9958
+
+diff files <ocean-non/pin/p4/thread1-trace.out.gz,ocean-non/m5/p4/m5out/X86/m5trace.out.901.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 426032
+t2 bbs size = 426458
+call trace 1 size = 3541
+call trace 2 size = 3767
+ProcessCalls:task calltask :(0,3541)=3541,(0,3767)=3767
+t1 inst size:24509500
+t2 inst size:24510675
+call trace diff:
+3195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,7594547,10276785,6506306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5391
+t2 unique size:4783
+call trace sim. size:3195
+inst trace sim. size:24377638
+call trace similarity:90.2287
+inst trace similarity:99.462
+
+diff files <ocean-non/pin/p4/thread2-trace.out.gz,ocean-non/m5/p4/m5out/X86/m5trace.out.902.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 425933
+t2 bbs size = 426372
+call trace 1 size = 3469
+call trace 2 size = 3686
+ProcessCalls:task calltask :(0,3469)=3469,(0,3686)=3686
+t1 inst size:24583164
+t2 inst size:24585349
+call trace diff:
+3046,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+704039,9234097,5467376,8785383,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:3770
+t2 unique size:4170
+call trace sim. size:3046
+inst trace sim. size:24190895
+call trace similarity:87.8063
+inst trace similarity:98.4043
+
+diff files <ocean-non/pin/p4/thread3-trace.out.gz,ocean-non/m5/p4/m5out/X86/m5trace.out.903.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 418719
+t2 bbs size = 418872
+call trace 1 size = 3484
+call trace 2 size = 3766
+ProcessCalls:task calltask :(0,3484)=3484,(0,3766)=3766
+t1 inst size:24728738
+t2 inst size:24648196
+call trace diff:
+3098,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+1103468,9011451,6844744,6865511,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:202336
+t2 unique size:175417
+call trace sim. size:3098
+inst trace sim. size:23825174
+call trace similarity:88.9208
+inst trace similarity:96.3461
+
+diff files <ocean-non/pin/p4/thread4-trace.out.gz,ocean-non/m5/p4/m5out/X86/m5trace.out.904.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 418339
+t2 bbs size = 419286
+call trace 1 size = 3476
+call trace 2 size = 3798
+ProcessCalls:task calltask :(0,3476)=3476,(0,3798)=3798
+t1 inst size:24645255
+t2 inst size:24732028
+call trace diff:
+3118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+286387,8136446,8053163,7472539,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:174763
+t2 unique size:202937
+call trace sim. size:3118
+inst trace sim. size:23948535
+call trace similarity:89.7008
+inst trace similarity:97.173
+
+diff files <ocean-non/pin/p8/thread0-trace.out.gz,ocean-non/m5/p8/m5out/X86/m5trace.out.900.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 14168
+t2 bbs size = 14280
+call trace 1 size = 1433
+call trace 2 size = 1560
+ProcessCalls:task calltask :(0,1433)=1433,(0,1560)=1560
+t1 inst size:178650
+t2 inst size:178136
+call trace diff:
+0,1332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+16244,0,137171,13499,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7416
+t2 unique size:6462
+call trace sim. size:1332
+inst trace sim. size:166914
+call trace similarity:92.9518
+inst trace similarity:93.4307
+
+diff files <ocean-non/pin/p8/thread1-trace.out.gz,ocean-non/m5/p8/m5out/X86/m5trace.out.901.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 228024
+t2 bbs size = 229388
+call trace 1 size = 3726
+call trace 2 size = 4413
+ProcessCalls:task calltask :(0,3726)=3726,(0,4413)=4413
+t1 inst size:12368395
+t2 inst size:12374514
+call trace diff:
+3543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,3133600,4675563,4544383,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:5773
+t2 unique size:6229
+call trace sim. size:3543
+inst trace sim. size:12353546
+call trace similarity:95.0886
+inst trace similarity:99.8799
+
+diff files <ocean-non/pin/p8/thread2-trace.out.gz,ocean-non/m5/p8/m5out/X86/m5trace.out.902.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 228302
+t2 bbs size = 229432
+call trace 1 size = 3693
+call trace 2 size = 4268
+ProcessCalls:task calltask :(0,3693)=3693,(0,4268)=4268
+t1 inst size:12404980
+t2 inst size:12410552
+call trace diff:
+0,3437,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+3831047,0,4294736,4097682,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4171
+t2 unique size:5466
+call trace sim. size:3437
+inst trace sim. size:12223465
+call trace similarity:93.068
+inst trace similarity:98.5368
+
+diff files <ocean-non/pin/p8/thread3-trace.out.gz,ocean-non/m5/p8/m5out/X86/m5trace.out.903.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 219615
+t2 bbs size = 220777
+call trace 1 size = 3605
+call trace 2 size = 4194
+ProcessCalls:task calltask :(0,3605)=3605,(0,4194)=4194
+t1 inst size:12273378
+t2 inst size:12279253
+call trace diff:
+3384,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,4439239,5072564,2619591,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4205
+t2 unique size:5441
+call trace sim. size:3384
+inst trace sim. size:12131394
+call trace similarity:93.8696
+inst trace similarity:98.8432
+
+diff files <ocean-non/pin/p8/thread4-trace.out.gz,ocean-non/m5/p8/m5out/X86/m5trace.out.904.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 219572
+t2 bbs size = 220364
+call trace 1 size = 3573
+call trace 2 size = 4000
+ProcessCalls:task calltask :(0,3573)=3573,(0,4000)=4000
+t1 inst size:12314914
+t2 inst size:12318344
+call trace diff:
+0,3222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+2807223,0,5722618,3675580,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4054
+t2 unique size:4976
+call trace sim. size:3222
+inst trace sim. size:12205421
+call trace similarity:90.1763
+inst trace similarity:99.1109
+
+diff files <ocean-non/pin/p8/thread5-trace.out.gz,ocean-non/m5/p8/m5out/X86/m5trace.out.905.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 215853
+t2 bbs size = 217007
+call trace 1 size = 3618
+call trace 2 size = 4276
+ProcessCalls:task calltask :(0,3618)=3618,(0,4276)=4276
+t1 inst size:12314958
+t2 inst size:12280358
+call trace diff:
+3416,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,3476958,4486355,4079263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:103902
+t2 unique size:91744
+call trace sim. size:3416
+inst trace sim. size:12042576
+call trace similarity:94.4168
+inst trace similarity:97.7882
+
+diff files <ocean-non/pin/p8/thread6-trace.out.gz,ocean-non/m5/p8/m5out/X86/m5trace.out.906.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 215590
+t2 bbs size = 217149
+call trace 1 size = 3571
+call trace 2 size = 4269
+ProcessCalls:task calltask :(0,3571)=3571,(0,4269)=4269
+t1 inst size:12273298
+t2 inst size:12321796
+call trace diff:
+3394,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,3931082,3892304,4297823,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:89978
+t2 unique size:105187
+call trace sim. size:3394
+inst trace sim. size:12121209
+call trace similarity:95.0434
+inst trace similarity:98.7608
+
+diff files <ocean-non/pin/p8/thread7-trace.out.gz,ocean-non/m5/p8/m5out/X86/m5trace.out.907.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 227925
+t2 bbs size = 228671
+call trace 1 size = 3666
+call trace 2 size = 4092
+ProcessCalls:task calltask :(0,3666)=3666,(0,4092)=4092
+t1 inst size:12501467
+t2 inst size:12505364
+call trace diff:
+3261,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,3268266,4784325,4275259,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4180
+t2 unique size:5027
+call trace sim. size:3261
+inst trace sim. size:12327850
+call trace similarity:88.9525
+inst trace similarity:98.6112
+
+diff files <ocean-non/pin/p8/thread8-trace.out.gz,ocean-non/m5/p8/m5out/X86/m5trace.out.908.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 228285
+t2 bbs size = 229076
+call trace 1 size = 3693
+call trace 2 size = 4112
+ProcessCalls:task calltask :(0,3693)=3693,(0,4112)=4112
+t1 inst size:12548788
+t2 inst size:12552620
+call trace diff:
+3313,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,5035018,3367670,3962459,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:4212
+t2 unique size:5253
+call trace sim. size:3313
+inst trace sim. size:12365147
+call trace similarity:89.7103
+inst trace similarity:98.5366
+
+diff files <fmm/pin/p2/thread0-trace.out.gz,fmm/m5/p2/m5out/X86/m5trace.out.700.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 69337
+t2 bbs size = 67351
+call trace 1 size = 19199
+call trace 2 size = 19028
+ProcessCalls:task calltask :(0,19199)=19199,(0,19028)=19028
+t1 inst size:629976
+t2 inst size:619254
+call trace diff:
+18743,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,131811,125518,138516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:218523
+t2 unique size:217931
+call trace sim. size:18743
+inst trace sim. size:395845
+call trace similarity:97.6249
+inst trace similarity:62.8349
+
+diff files <fmm/pin/p2/thread1-trace.out.gz,fmm/m5/p2/m5out/X86/m5trace.out.701.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 4044
+t2 bbs size = 10068
+call trace 1 size = 301
+call trace 2 size = 1460
+ProcessCalls:task calltask :(0,301)=301,(0,1460)=1460
+t1 inst size:39652
+t2 inst size:13248656
+call trace diff:
+173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,3134,2713,4067,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7376
+t2 unique size:13188901
+call trace sim. size:173
+inst trace sim. size:9914
+call trace similarity:57.4751
+inst trace similarity:25.0025
+
+diff files <fmm/pin/p2/thread2-trace.out.gz,fmm/m5/p2/m5out/X86/m5trace.out.702.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 10055
+t2 bbs size = 4016
+call trace 1 size = 1455
+call trace 2 size = 307
+ProcessCalls:task calltask :(0,1455)=1455,(0,307)=307
+t1 inst size:13251494
+t2 inst size:39281
+call trace diff:
+173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2554,4685,2622,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:13192623
+t2 unique size:7031
+call trace sim. size:173
+inst trace sim. size:9861
+call trace similarity:11.89
+inst trace similarity:0.0744143
+
+diff files <fmm/pin/p16/thread0-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.700.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 95257
+t2 bbs size = 92603
+call trace 1 size = 23696
+call trace 2 size = 23526
+ProcessCalls:task calltask :(0,23696)=23696,(0,23526)=23526
+t1 inst size:774759
+t2 inst size:758408
+call trace diff:
+23241,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,182902,179951,162427,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:227842
+t2 unique size:227249
+call trace sim. size:23241
+inst trace sim. size:525280
+call trace similarity:98.0798
+inst trace similarity:67.7991
+
+diff files <fmm/pin/p16/thread1-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.701.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 96976
+t2 bbs size = 97028
+call trace 1 size = 27008
+call trace 2 size = 27049
+ProcessCalls:task calltask :(0,27008)=27008,(0,27049)=27049
+t1 inst size:13255281
+t2 inst size:13253240
+call trace diff:
+26970,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,195690,225997,198171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:12634794
+t2 unique size:12631795
+call trace sim. size:26970
+inst trace sim. size:619858
+call trace similarity:99.8593
+inst trace similarity:4.67631
+
+diff files <fmm/pin/p16/thread2-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.702.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1589
+t2 bbs size = 1584
+call trace 1 size = 264
+call trace 2 size = 268
+ProcessCalls:task calltask :(0,264)=264,(0,268)=268
+t1 inst size:20299
+t2 inst size:18907
+call trace diff:
+244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2689,5043,3777,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:8456
+t2 unique size:7091
+call trace sim. size:244
+inst trace sim. size:11509
+call trace similarity:92.4242
+inst trace similarity:56.6974
+
+diff files <fmm/pin/p16/thread3-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.703.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1602
+t2 bbs size = 1584
+call trace 1 size = 265
+call trace 2 size = 267
+ProcessCalls:task calltask :(0,265)=265,(0,267)=267
+t1 inst size:19499
+t2 inst size:18918
+call trace diff:
+245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,5337,2534,3712,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7618
+t2 unique size:7076
+call trace sim. size:245
+inst trace sim. size:11583
+call trace similarity:92.4528
+inst trace similarity:59.403
+
+diff files <fmm/pin/p16/thread4-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.704.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1622
+t2 bbs size = 1606
+call trace 1 size = 267
+call trace 2 size = 269
+ProcessCalls:task calltask :(0,267)=267,(0,269)=269
+t1 inst size:19551
+t2 inst size:18923
+call trace diff:
+243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2636,3440,5559,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7613
+t2 unique size:7034
+call trace sim. size:243
+inst trace sim. size:11635
+call trace similarity:91.0112
+inst trace similarity:59.511
+
+diff files <fmm/pin/p16/thread5-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.705.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1612
+t2 bbs size = 1593
+call trace 1 size = 266
+call trace 2 size = 267
+ProcessCalls:task calltask :(0,266)=266,(0,267)=267
+t1 inst size:19609
+t2 inst size:18921
+call trace diff:
+245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2227,4168,5172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7699
+t2 unique size:7076
+call trace sim. size:245
+inst trace sim. size:11567
+call trace similarity:92.1053
+inst trace similarity:58.9882
+
+diff files <fmm/pin/p16/thread6-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.706.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1611
+t2 bbs size = 1585
+call trace 1 size = 269
+call trace 2 size = 268
+ProcessCalls:task calltask :(0,269)=269,(0,268)=268
+t1 inst size:19555
+t2 inst size:19079
+call trace diff:
+252,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2526,6229,2854,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7631
+t2 unique size:7274
+call trace sim. size:252
+inst trace sim. size:11609
+call trace similarity:93.6803
+inst trace similarity:59.3659
+
+diff files <fmm/pin/p16/thread7-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.707.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1611
+t2 bbs size = 1617
+call trace 1 size = 258
+call trace 2 size = 272
+ProcessCalls:task calltask :(0,258)=258,(0,272)=272
+t1 inst size:19675
+t2 inst size:18983
+call trace diff:
+240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,4841,4783,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7771
+t2 unique size:7048
+call trace sim. size:240
+inst trace sim. size:11614
+call trace similarity:93.0233
+inst trace similarity:59.0292
+
+diff files <fmm/pin/p16/thread8-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.708.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1606
+t2 bbs size = 1605
+call trace 1 size = 260
+call trace 2 size = 269
+ProcessCalls:task calltask :(0,260)=260,(0,269)=269
+t1 inst size:19738
+t2 inst size:18951
+call trace diff:
+250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,4763,4064,2825,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7836
+t2 unique size:7056
+call trace sim. size:250
+inst trace sim. size:11652
+call trace similarity:96.1538
+inst trace similarity:59.0333
+
+diff files <fmm/pin/p16/thread9-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.709.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1597
+t2 bbs size = 1597
+call trace 1 size = 259
+call trace 2 size = 269
+ProcessCalls:task calltask :(0,259)=259,(0,269)=269
+t1 inst size:19390
+t2 inst size:18943
+call trace diff:
+245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2988,5764,2823,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7515
+t2 unique size:7078
+call trace sim. size:245
+inst trace sim. size:11575
+call trace similarity:94.5946
+inst trace similarity:59.6957
+
+diff files <fmm/pin/p16/thread10-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.710.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1646
+t2 bbs size = 1642
+call trace 1 size = 269
+call trace 2 size = 277
+ProcessCalls:task calltask :(0,269)=269,(0,277)=277
+t1 inst size:19535
+t2 inst size:19086
+call trace diff:
+248,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,5437,4605,1684,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7514
+t2 unique size:7048
+call trace sim. size:248
+inst trace sim. size:11726
+call trace similarity:92.1933
+inst trace similarity:60.0256
+
+diff files <fmm/pin/p16/thread11-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.711.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1581
+t2 bbs size = 1603
+call trace 1 size = 250
+call trace 2 size = 269
+ProcessCalls:task calltask :(0,250)=250,(0,269)=269
+t1 inst size:19286
+t2 inst size:18961
+call trace diff:
+234,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2692,5221,3633,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7503
+t2 unique size:7060
+call trace sim. size:234
+inst trace sim. size:11546
+call trace similarity:93.6
+inst trace similarity:59.8673
+
+diff files <fmm/pin/p16/thread12-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.712.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1616
+t2 bbs size = 1616
+call trace 1 size = 263
+call trace 2 size = 271
+ProcessCalls:task calltask :(0,263)=263,(0,271)=271
+t1 inst size:19404
+t2 inst size:18963
+call trace diff:
+244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,4290,3589,3756,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7502
+t2 unique size:7036
+call trace sim. size:244
+inst trace sim. size:11635
+call trace similarity:92.7757
+inst trace similarity:59.9619
+
+diff files <fmm/pin/p16/thread13-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.713.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1604
+t2 bbs size = 1607
+call trace 1 size = 265
+call trace 2 size = 270
+ProcessCalls:task calltask :(0,265)=265,(0,270)=270
+t1 inst size:19541
+t2 inst size:18947
+call trace diff:
+248,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,3123,5502,2999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7681
+t2 unique size:7040
+call trace sim. size:248
+inst trace sim. size:11624
+call trace similarity:93.5849
+inst trace similarity:59.4852
+
+diff files <fmm/pin/p16/thread14-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.714.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1613
+t2 bbs size = 1609
+call trace 1 size = 259
+call trace 2 size = 271
+ProcessCalls:task calltask :(0,259)=259,(0,271)=271
+t1 inst size:19508
+t2 inst size:18941
+call trace diff:
+243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,5870,2837,2928,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7586
+t2 unique size:7036
+call trace sim. size:243
+inst trace sim. size:11635
+call trace similarity:93.8224
+inst trace similarity:59.6422
+
+diff files <fmm/pin/p16/thread15-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.715.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1580
+t2 bbs size = 1601
+call trace 1 size = 252
+call trace 2 size = 269
+ProcessCalls:task calltask :(0,252)=252,(0,269)=269
+t1 inst size:19271
+t2 inst size:19098
+call trace diff:
+0,239,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+3191,0,4295,4074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7484
+t2 unique size:7216
+call trace sim. size:239
+inst trace sim. size:11560
+call trace similarity:94.8413
+inst trace similarity:59.9865
+
+diff files <fmm/pin/p16/thread16-trace.out.gz,fmm/m5/p16/m5out/X86/m5trace.out.716.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1614
+t2 bbs size = 1604
+call trace 1 size = 264
+call trace 2 size = 265
+ProcessCalls:task calltask :(0,264)=264,(0,265)=265
+t1 inst size:19558
+t2 inst size:18900
+call trace diff:
+244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,2835,4959,3831,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7671
+t2 unique size:7023
+call trace sim. size:244
+inst trace sim. size:11625
+call trace similarity:92.4242
+inst trace similarity:59.4386
+
+diff files <fmm/pin/p1/thread0-trace.out.gz,fmm/m5/p1/m5out/X86/m5trace.out.700.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 67631
+t2 bbs size = 65704
+call trace 1 size = 18910
+call trace 2 size = 18739
+ProcessCalls:task calltask :(0,18910)=18910,(0,18739)=18739
+t1 inst size:620140
+t2 inst size:609831
+call trace diff:
+0,0,0,18454,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+129035,130194,127857,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:217883
+t2 unique size:217269
+call trace sim. size:18454
+inst trace sim. size:387086
+call trace similarity:97.5886
+inst trace similarity:62.4191
+
+diff files <fmm/pin/p1/thread1-trace.out.gz,fmm/m5/p1/m5out/X86/m5trace.out.701.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 96641
+t2 bbs size = 96584
+call trace 1 size = 27006
+call trace 2 size = 26995
+ProcessCalls:task calltask :(0,27006)=27006,(0,26995)=26995
+t1 inst size:13250900
+t2 inst size:13248095
+call trace diff:
+26985,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,191679,203365,220726,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:12634748
+t2 unique size:12631344
+call trace sim. size:26985
+inst trace sim. size:615770
+call trace similarity:99.9222
+inst trace similarity:4.64701
+
+diff files <fmm/pin/p4/thread0-trace.out.gz,fmm/m5/p4/m5out/X86/m5trace.out.700.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 72758
+t2 bbs size = 70717
+call trace 1 size = 19782
+call trace 2 size = 19606
+ProcessCalls:task calltask :(0,19782)=19782,(0,19606)=19606
+t1 inst size:650657
+t2 inst size:638346
+call trace diff:
+19321,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,129025,137092,147216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:220807
+t2 unique size:219276
+call trace sim. size:19321
+inst trace sim. size:413333
+call trace similarity:97.6696
+inst trace similarity:63.5255
+
+diff files <fmm/pin/p4/thread1-trace.out.gz,fmm/m5/p4/m5out/X86/m5trace.out.701.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 96692
+t2 bbs size = 96699
+call trace 1 size = 27009
+call trace 2 size = 27027
+ProcessCalls:task calltask :(0,27009)=27009,(0,27027)=27027
+t1 inst size:13252122
+t2 inst size:13249392
+call trace diff:
+26975,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,201321,204954,210169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:12635111
+t2 unique size:12631602
+call trace sim. size:26975
+inst trace sim. size:616444
+call trace similarity:99.8741
+inst trace similarity:4.65166
+
+diff files <fmm/pin/p4/thread2-trace.out.gz,fmm/m5/p4/m5out/X86/m5trace.out.702.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 2556
+t2 bbs size = 2542
+call trace 1 size = 296
+call trace 2 size = 302
+ProcessCalls:task calltask :(0,296)=296,(0,302)=302
+t1 inst size:26704
+t2 inst size:26104
+call trace diff:
+266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,6232,6556,5899,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7635
+t2 unique size:7025
+call trace sim. size:266
+inst trace sim. size:18687
+call trace similarity:89.8649
+inst trace similarity:69.9783
+
+diff files <fmm/pin/p4/thread3-trace.out.gz,fmm/m5/p4/m5out/X86/m5trace.out.703.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 2562
+t2 bbs size = 2561
+call trace 1 size = 296
+call trace 2 size = 305
+ProcessCalls:task calltask :(0,296)=296,(0,305)=305
+t1 inst size:26596
+t2 inst size:26212
+call trace diff:
+257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,7271,6879,4550,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7450
+t2 unique size:7003
+call trace sim. size:257
+inst trace sim. size:18700
+call trace similarity:86.8243
+inst trace similarity:70.3113
+
+diff files <fmm/pin/p4/thread4-trace.out.gz,fmm/m5/p4/m5out/X86/m5trace.out.704.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 2568
+t2 bbs size = 2562
+call trace 1 size = 301
+call trace 2 size = 307
+ProcessCalls:task calltask :(0,301)=301,(0,307)=307
+t1 inst size:26638
+t2 inst size:26181
+call trace diff:
+270,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,5569,8336,4894,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7486
+t2 unique size:7000
+call trace sim. size:270
+inst trace sim. size:18799
+call trace similarity:89.701
+inst trace similarity:70.5721
+
+diff files <fmm/pin/p8/thread0-trace.out.gz,fmm/m5/p8/m5out/X86/m5trace.out.700.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 80276
+t2 bbs size = 77992
+call trace 1 size = 21090
+call trace 2 size = 20914
+ProcessCalls:task calltask :(0,21090)=21090,(0,20914)=20914
+t1 inst size:692182
+t2 inst size:678154
+call trace diff:
+20629,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,151028,143324,156147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:223374
+t2 unique size:221935
+call trace sim. size:20629
+inst trace sim. size:450499
+call trace similarity:97.8141
+inst trace similarity:65.0839
+
+diff files <fmm/pin/p8/thread1-trace.out.gz,fmm/m5/p8/m5out/X86/m5trace.out.701.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 96778
+t2 bbs size = 96799
+call trace 1 size = 27008
+call trace 2 size = 27025
+ProcessCalls:task calltask :(0,27008)=27008,(0,27025)=27025
+t1 inst size:13252971
+t2 inst size:13250560
+call trace diff:
+26972,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,198435,207676,211476,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:12634848
+t2 unique size:12631586
+call trace sim. size:26972
+inst trace sim. size:617587
+call trace similarity:99.8667
+inst trace similarity:4.65999
+
+diff files <fmm/pin/p8/thread2-trace.out.gz,fmm/m5/p8/m5out/X86/m5trace.out.702.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1788
+t2 bbs size = 1787
+call trace 1 size = 274
+call trace 2 size = 280
+ProcessCalls:task calltask :(0,274)=274,(0,280)=280
+t1 inst size:21352
+t2 inst size:20012
+call trace diff:
+242,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,4348,4188,3967,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:8439
+t2 unique size:7096
+call trace sim. size:242
+inst trace sim. size:12503
+call trace similarity:88.3212
+inst trace similarity:58.5566
+
+diff files <fmm/pin/p8/thread3-trace.out.gz,fmm/m5/p8/m5out/X86/m5trace.out.703.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1813
+t2 bbs size = 1794
+call trace 1 size = 273
+call trace 2 size = 278
+ProcessCalls:task calltask :(0,273)=273,(0,278)=278
+t1 inst size:20557
+t2 inst size:20009
+call trace diff:
+248,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,3281,5175,4200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7580
+t2 unique size:7044
+call trace sim. size:248
+inst trace sim. size:12656
+call trace similarity:90.8425
+inst trace similarity:61.5654
+
+diff files <fmm/pin/p8/thread4-trace.out.gz,fmm/m5/p8/m5out/X86/m5trace.out.704.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1838
+t2 bbs size = 1806
+call trace 1 size = 285
+call trace 2 size = 281
+ProcessCalls:task calltask :(0,285)=285,(0,281)=281
+t1 inst size:20894
+t2 inst size:20154
+call trace diff:
+253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,5352,3553,3768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7786
+t2 unique size:7195
+call trace sim. size:253
+inst trace sim. size:12673
+call trace similarity:88.7719
+inst trace similarity:60.6538
+
+diff files <fmm/pin/p8/thread5-trace.out.gz,fmm/m5/p8/m5out/X86/m5trace.out.705.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1816
+t2 bbs size = 1807
+call trace 1 size = 281
+call trace 2 size = 280
+ProcessCalls:task calltask :(0,281)=281,(0,280)=280
+t1 inst size:20804
+t2 inst size:20053
+call trace diff:
+254,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,5818,3848,3016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7801
+t2 unique size:7052
+call trace sim. size:254
+inst trace sim. size:12682
+call trace similarity:90.3915
+inst trace similarity:60.9594
+
+diff files <fmm/pin/p8/thread6-trace.out.gz,fmm/m5/p8/m5out/X86/m5trace.out.706.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1792
+t2 bbs size = 1804
+call trace 1 size = 264
+call trace 2 size = 279
+ProcessCalls:task calltask :(0,264)=264,(0,279)=279
+t1 inst size:20372
+t2 inst size:20021
+call trace diff:
+248,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,4745,5528,2370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7468
+t2 unique size:7037
+call trace sim. size:248
+inst trace sim. size:12643
+call trace similarity:93.9394
+inst trace similarity:62.0607
+
+diff files <fmm/pin/p8/thread7-trace.out.gz,fmm/m5/p8/m5out/X86/m5trace.out.707.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1863
+t2 bbs size = 1844
+call trace 1 size = 287
+call trace 2 size = 289
+ProcessCalls:task calltask :(0,287)=287,(0,289)=289
+t1 inst size:20728
+t2 inst size:20179
+call trace diff:
+251,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,4879,4269,3608,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7547
+t2 unique size:7025
+call trace sim. size:251
+inst trace sim. size:12756
+call trace similarity:87.4564
+inst trace similarity:61.5399
+
+diff files <fmm/pin/p8/thread8-trace.out.gz,fmm/m5/p8/m5out/X86/m5trace.out.708.gz> with dump file/home/liuyix/Dev/ped3/WORKING_DIR/fft.dump
+1534 functions found in dump file!
+t1 bbs size = 1814
+t2 bbs size = 1805
+call trace 1 size = 271
+call trace 2 size = 277
+ProcessCalls:task calltask :(0,271)=271,(0,277)=277
+t1 inst size:20900
+t2 inst size:19992
+call trace diff:
+252,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+inst trace diff:
+0,4974,3268,4424,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+t1 unique size:7905
+t2 unique size:7015
+call trace sim. size:252
+inst trace sim. size:12666
+call trace similarity:92.9889
+inst trace similarity:60.6029
+
