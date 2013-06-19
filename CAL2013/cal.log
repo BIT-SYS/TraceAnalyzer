@@ -1,0 +1,505 @@
+This is e-TeX, Version 3.141592-2.2 (MiKTeX 2.4) (preloaded format=latex 2005.2.1)  4 JUN 2013 09:17
+entering extended mode
+**cal.tex
+(cal.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8g> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, french, loaded.
+(IEEEtran.cls
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+-- Using IEEE Computer Society mode.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 377.
+
+(C:\CTeX\texmf\tex\latex\psnfss\ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+-- Using 7.875in x 10.75in (letter) paper.
+-- Using DVI output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 735.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) (C:\CTeX\texmf\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 149.
+LaTeX Info: Redefining \nocite on input line 214.
+Package: cite 2003/11/04  v 4.01
+)
+(C:\CTeX\texmf\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTeX\texmf\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\CTeX\texmf\tex\latex\graphics\graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTeX\texmf\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\CTeX\texmf\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2005/12/29 v1.2 MiKTeX 'graphics' configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 90.
+
+(C:\CTeX\texmf\tex\latex\graphics\dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+(C:\CTeX\texmf\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(C:\CTeX\texmf\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\CTeX\texmf\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen119
+))
+(C:\CTeX\texmf\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen120
+)
+(C:\CTeX\texmf\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen121
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks17
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks18
+\eqnshift@=\dimen122
+\alignsep@=\dimen123
+\tagshift@=\dimen124
+\tagwidth@=\dimen125
+\totwidth@=\dimen126
+\lineht@=\dimen127
+\@envbody=\toks19
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(C:\CTeX\texmf\tex\latex\ltxmisc\ulem.sty
+\UL@box=\box29
+\UL@hyphenbox=\box30
+\UL@skip=\skip47
+\UL@hook=\toks21
+\UL@pe=\count103
+\UL@pixel=\dimen128
+\ULC@box=\box31
+Package: ulem 2000/05/26
+\ULdepth=\dimen129
+)
+(C:\CTeX\texmf\tex\latex\algorithm2e\algorithm2e.sty
+Package: algorithm2e 2005/10/04 v3.9 algorithms environments
+\c@AlgoLine=\count104
+
+(C:\CTeX\texmf\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\CTeX\texmf\tex\latex\tools\xspace.sty
+Package: xspace 2006/05/08 v1.12 Space after command names (DPC,MH)
+)
+********************************************************
+Package `algorithm2e' Release 3.9 -- october 04 2005 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (fiorio@lirmm.fr)
+********************************************************
+\skiptotal=\skip48
+\skiprule=\skip49
+\skiphlne=\skip50
+\skiptext=\skip51
+\skiplength=\skip52
+\algomargin=\skip53
+\skipalgocfslide=\skip54
+\algowidth=\dimen130
+\inoutsize=\dimen131
+\inoutline=\dimen132
+\algocf@inoutbox=\box32
+\algocf@inputbox=\box33
+\AlCapSkip=\skip55
+\AlCapHSkip=\skip56
+\algocf@capbox=\box34
+\c@algocfline=\count105
+\c@algocf=\count106
+\algocf@algoframe=\box35
+\algocf@algobox=\box36
+) (C:\CTeX\texmf\tex\latex\base\fixltx2e.sty
+Package: fixltx2e 2006/03/24 v1.1n fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+)
+(C:\CTeX\texmf\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip11
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+) (cal.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 434.
+LaTeX Font Info:    ... okay on input line 434.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 434.
+LaTeX Font Info:    ... okay on input line 434.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 434.
+LaTeX Font Info:    ... okay on input line 434.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 434.
+LaTeX Font Info:    ... okay on input line 434.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 434.
+LaTeX Font Info:    ... okay on input line 434.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 434.
+LaTeX Font Info:    ... okay on input line 434.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 559.
+
+
+(C:\CTeX\texmf\tex\latex\psnfss\ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 559.
+** ATTENTION: \keywords is deprecated (line 559). Use \IEEEkeywords instead.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 559.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11> on input line 559.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.69997> on input line 559.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.5> on input line 559.
+LaTeX Font Info:    Try loading font information for U+pzd on input line 559.
+(C:\CTeX\texmf\tex\latex\psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+
+LaTeX Warning: No \author given.
+
+** ATTENTION: \keywords is deprecated (line 559). Use \IEEEkeywords instead.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 586.
+LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <12> not available
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 586.
+
+LaTeX Warning: Citation `trace11' on page 1 undefined on input line 598.
+
+
+LaTeX Warning: Citation `trace05' on page 1 undefined on input line 598.
+
+
+LaTeX Warning: Citation `trace99' on page 1 undefined on input line 598.
+
+
+LaTeX Warning: Citation `trace06' on page 1 undefined on input line 598.
+
+
+LaTeX Warning: Citation `trace052' on page 1 undefined on input line 598.
+
+
+LaTeX Warning: Citation `traceintel' on page 1 undefined on input line 600.
+
+
+LaTeX Warning: Citation `tracediff' on page 1 undefined on input line 606.
+
+
+LaTeX Warning: Citation `ld1996' on page 1 undefined on input line 632.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 641.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 641.
+
+Underfull \hbox (badness 10000) in paragraph at lines 641--643
+[][]\OT1/ppl/m/n/10 Positional sim-i-lar-ity: the de-gree to which
+ []
+
+
+LaTeX Warning: Citation `Faulk1964' on page 1 undefined on input line 649.
+
+
+LaTeX Warning: Citation `distance66' on page 1 undefined on input line 666.
+
+[1
+
+
+]
+Underfull \hbox (badness 1454) in paragraph at lines 707--711
+\OT1/ppl/m/n/10 put traces. If $\OML/cmm/m/it/10 t[]$ \OT1/ppl/m/n/10 and $\OML
+/cmm/m/it/10 t[]$ \OT1/ppl/m/n/10 are a same trace, then
+ []
+
+
+LaTeX Warning: Citation `bit03' on page 2 undefined on input line 722.
+
+
+LaTeX Warning: Citation `ld2010' on page 2 undefined on input line 736.
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 751--751
+ \OT1/phv/b/sc/12 3 Sim-i-lar-ity Cal-cu-la-tion Based-on
+ []
+
+[2]
+File: fig/call1.eps Graphic file (type eps)
+ <fig/call1.eps>
+Overfull \hbox (6.0pt too wide) in paragraph at lines 796--797
+ [][][] 
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 854
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--855
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 863.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 870.
+[3]
+
+LaTeX Warning: Citation `pin10' on page 4 undefined on input line 902.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 920.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 920.
+
+LaTeX Warning: Citation `splash295' on page 4 undefined on input line 932.
+
+File: fig/x86_s_sim1.eps Graphic file (type eps)
+<fig/x86_s_sim1.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1035
+\OT1/ppl/m/n/10 two text goes here.Appendix two text goes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1035
+\OT1/ppl/m/n/10 two text goes here.Appendix two text goes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1035
+\OT1/ppl/m/n/10 two text goes here.Appendix two text goes
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 1034--1035
+\OT1/ppl/m/n/10 here.Appendix two text goes here.Appendix two
+ []
+
+[4] (cal.bbl
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \end{thebibliography}
+                          
+? 
+)
+Underfull \hbox (badness 2744) in paragraph at lines 1125--1127
+[]\OT1/phv/b/n/8 John Doe \OT1/phv/m/n/8 Bi-og-ra-phy text here.Biography text 
+here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1127
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1127
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1127
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1127
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1127
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1127
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1127
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1127
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 1133--1135
+[]\OT1/phv/b/n/8 Jane Doe \OT1/phv/m/n/8 Bi-og-ra-phy text here.Biography text 
+here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1135
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1135
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1135
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1135
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1135
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1135
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1135
+\OT1/phv/m/n/8 text here.Biography text here.Biography text here.Biography
+ []
+
+[5] (cal.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3292 strings out of 95889
+ 42490 string characters out of 1195118
+ 123765 words of memory out of 1118762
+ 6255 multiletter control sequences out of 60000
+ 30468 words of font info for 77 fonts, out of 1000000 for 2000
+ 17 hyphenation exceptions out of 4999
+ 28i,13n,28p,711b,328s stack positions out of 5000i,500n,10000p,200000b,32768s
+
+Output written on cal.dvi (5 pages, 37320 bytes).
