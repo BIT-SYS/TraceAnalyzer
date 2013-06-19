@@ -52,7 +52,10 @@ inst trace similarity:99.8692
 
 def read_file(filename):
     with open(filename) as fileObj:
+        stat_item = None
         for line in fileObj:
+            print "line:", line.strip()
+            #line = line.strip()
             if line == '\n':
                 if stat_item:
                     print_stat_item(stat_item)
@@ -61,6 +64,8 @@ def read_file(filename):
                         print 'stat item is NONE!'
                 stat_item = None
             elif line.find('diff files ') != -1:
+                print "found diff files!"
+                line = line.rstrip('\n')
                 match = re.search('<([a-z]+?|[a-z]+?.[a-z]+?)/pin/p([0-9]+?)/thread([0-9]+?)-', line)
                 if match:
                     progname = match.group(1)
@@ -75,16 +80,17 @@ def read_file(filename):
                     #     pass
                 else:
                     if debug:
-                        print 'pattern not found, msg:'
+                        print 'pattern not match, msg:'
                         print line                
             elif line.find('error') != -1:
                 #print 'found error!'
                 #print line
                 set_error(stat_item)
-            elif line.find('call trace similarity') != -1:
-                stat_item['cts'] = float(line.split(':')[1])
-            elif line.find("inst trace similarity") != -1:
-                stat_item['its'] = float(line.split(':')[1])
+            elif line.find('call_trace_similarity') != -1:
+                stat_item['cts'] = float(line.split(' ')[1])
+                print 'cts: ', stat_item['cts']
+            elif line.find("inst_trace_similarity") != -1:
+                stat_item['its'] = float(line.split(' ')[1])
 
                 
 def get_stat_item(name, nthreads, idx_threads):
@@ -144,18 +150,18 @@ def draw_barchart(prog, name):
     plt.title(name, fontsize=14)
     plt.ylabel('Ratio')
     #plt.legend( (rects1[0], rects2[0]), ('call trace', 'inst trace') )
-    # autolabel(rects1)
-    # autolabel(rects2)
+    #autolabel(rects1)
+    #autolabel(rects2)
     plt.show()
-    #plt.savefig(name+'.png',dpi=100)
+    plt.savefig(name+'.png',dpi=100)
 
-def writeCsv():
+def writeCsv(filename='ped3_stats.csv'):
     """
     csv format:
     progname, total threads, thread idx, cts, its
     """
     import csv
-    with open('ped3_stats.csv', 'wb') as csvfile:
+    with open(filename, 'wb') as csvfile:
         stat_writer = csv.writer(csvfile, delimiter=' ', quotechar='|', quoting=csv.QUOTE_MINIMAL)
         for k in g_stat_items.iterkeys():
             for thread in g_stat_items[k].iterkeys():
@@ -177,8 +183,9 @@ def autolabel(rects):
         plt.text(rect.get_x()+rect.get_width()/2., 1.05*height, '%f'%float(height),
                 ha='center', va='bottom')
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
+    if len(sys.argv) < 3:
         print '输入要分析的文件名'
+        print sys.argv[0] ,'ped3-stats.txt ped3-stats.csv '
         exit(0)
     read_file(sys.argv[1])
     for k in g_stat_items.iterkeys():
@@ -191,6 +198,6 @@ if __name__ == "__main__":
                 print 'call sim: ', item['cts']
                 print 'inst sim: ', item['its']
                 i += 1
-    # for prog in g_stat_items.iterkeys():
-    #     draw_barchart(g_stat_items[prog], prog)
-    writeCsv()
+    for prog in g_stat_items.iterkeys():
+        draw_barchart(g_stat_items[prog], prog)
+    writeCsv(sys.argv[2])

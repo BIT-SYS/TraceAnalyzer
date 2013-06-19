@@ -1,0 +1,7 @@
+*~
+WORKING_DIR
+*.o
+ped
+*/*.log
+*/*.aux
+*/*.bak
